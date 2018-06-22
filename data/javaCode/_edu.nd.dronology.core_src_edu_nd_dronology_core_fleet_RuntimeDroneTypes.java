@@ -105,7 +105,7 @@ public class RuntimeDroneTypes {
 	}
 
 	public void unregisterCommandHandler(String handlerId) throws DroneException {
-		// String handlerId = commandHandler.getHandlerId();
+		// Concept handlerId = commandHandler.getHandlerId();
 		// LOGGER.info("Drone command handler added '" + handlerId + "' - " + commandHandler.getClass());
 		if (!commandHandlers.containsKey(handlerId)) {
 			throw new DroneException("CommandHandler with id '" + handlerId + "' not registered");

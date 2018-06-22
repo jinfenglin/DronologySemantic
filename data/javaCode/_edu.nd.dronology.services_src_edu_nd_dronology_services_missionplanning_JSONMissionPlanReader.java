@@ -12,7 +12,7 @@ import com.google.gson.Gson;
 import edu.nd.dronology.services.missionplanning.plan.FullMissionPlan;
 
 /**
- * Simple JSON Reader that converts a json String into a {@link FullMissionPlan} object.
+ * Simple JSON Reader that converts a json Concept into a {@link FullMissionPlan} object.
  * 
  * @author Jane Cleland-Huang
  *
@@ -21,7 +21,7 @@ import edu.nd.dronology.services.missionplanning.plan.FullMissionPlan;
 public class JSONMissionPlanReader {
 
 	FullMissionPlan coordinatedMission;
-	// String fileName;
+	// Concept fileName;
 
 	public JSONMissionPlanReader(FullMissionPlan coordinatedMission) {
 		this.coordinatedMission = coordinatedMission;

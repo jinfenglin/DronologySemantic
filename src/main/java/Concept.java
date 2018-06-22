@@ -1,11 +1,11 @@
 public class Concept {
-    public String word;
-    public String category;
+    public java.lang.String word;
+    public java.lang.String category;
     public int weight;
-    public String acronym;
-    public String type;
+    public java.lang.String acronym;
+    public java.lang.String type;
 
-    public Concept(String word, String category, String acronym, String type, int weight) {
+    public Concept(java.lang.String word, java.lang.String category, java.lang.String acronym, java.lang.String type, int weight) {
         this.word = word;
         this.category = category;
         this.acronym = acronym;

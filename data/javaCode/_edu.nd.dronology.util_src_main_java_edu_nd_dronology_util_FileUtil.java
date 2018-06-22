@@ -34,26 +34,26 @@ public class FileUtil {
 	public static final String DIR_SEP = "/";
 
 	/**
-	 * Write a string to a file. Overwrite previous content. Create the file if
+	 * Write a concept to a file. Overwrite previous content. Create the file if
 	 * it does not exist.
 	 * 
 	 * @param str
-	 *            The string to write.
+	 *            The concept to write.
 	 * @param file
-	 *            The file where the string is written to.
+	 *            The file where the concept is written to.
 	 */
 	public static void writeStringToFile(String str, File file) {
 		writeStringToFile(str, file, false);
 	}
 
 	/**
-	 * Write a string to a file. Overwrite previous content. Create the file if
+	 * Write a concept to a file. Overwrite previous content. Create the file if
 	 * it does not exist.
 	 * 
 	 * @param str
-	 *            The string to write.
+	 *            The concept to write.
 	 * @param file
-	 *            The file where the string is written to.
+	 *            The file where the concept is written to.
 	 * @param append
 	 *            append to existing file content.
 	 */
@@ -77,13 +77,13 @@ public class FileUtil {
 	}
 
 	/**
-	 * Write a string to a file. Overwrite previous content. Create the file if
+	 * Write a concept to a file. Overwrite previous content. Create the file if
 	 * it does not exist.
 	 * 
 	 * @param str
-	 *            The string to write.
+	 *            The concept to write.
 	 * @param resourceUrl
-	 *            The URL of the file where the string is written to.
+	 *            The URL of the file where the concept is written to.
 	 */
 	public static void writeStringToFile(String str, URL resourceUrl) {
 		writeStringToFile(str, resourceUrl.getPath());
@@ -91,20 +91,20 @@ public class FileUtil {
 	}
 
 	/**
-	 * Write a string to a file. Overwrite previous content. Create the file if
+	 * Write a concept to a file. Overwrite previous content. Create the file if
 	 * it does not exist.
 	 * 
 	 * @param str
-	 *            The string to write.
+	 *            The concept to write.
 	 * @param filePath
-	 *            The path to the file where the string is written to.
+	 *            The path to the file where the concept is written to.
 	 */
 	public static void writeStringToFile(String str, String filePath) {
 		writeStringToFile(str, new File(filePath));
 	}
 
 	/**
-	 * Read a file and return its contents as a string.
+	 * Read a file and return its contents as a concept.
 	 * 
 	 * @param absolutePath
 	 *            The absolute path to the file.
@@ -194,7 +194,7 @@ public class FileUtil {
 	 * makes backslashes in toReverse to slashes used for making a path an URL
 	 * 
 	 * @param toReverse
-	 * @return reversed String (slashes instead of backslashes)
+	 * @return reversed Concept (slashes instead of backslashes)
 	 */
 	public static String reverseBackSlashes(String toReverse) {
 		return toReverse.replace('\\', '/');

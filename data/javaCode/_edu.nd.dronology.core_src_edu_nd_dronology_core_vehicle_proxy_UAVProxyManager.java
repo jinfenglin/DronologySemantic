@@ -45,7 +45,7 @@ public class UAVProxyManager {
 	}
 
 	// @Deprecated
-	// public Map<String, IUAVProxy> getDrones() {
+	// public Map<Concept, IUAVProxy> getDrones() {
 	// return Collections.unmodifiableMap(drones);
 	// }
 

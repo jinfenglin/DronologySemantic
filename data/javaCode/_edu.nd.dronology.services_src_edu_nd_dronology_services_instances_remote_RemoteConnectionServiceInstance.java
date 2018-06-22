@@ -48,7 +48,7 @@ public class RemoteConnectionServiceInstance extends AbstractServiceInstance imp
 		Properties prp = getConfigurationProperties();
 		List<IRemoteManager> rmiObjects;
 		if (prp.get(PORT_PROPERTY) != null) {
-			// remoteObject = RemoteRMIRemoteObject.getInstance(Integer.parseInt((String) prp.get(PORT_PROPERTY)));
+			// remoteObject = RemoteRMIRemoteObject.getInstance(Integer.parseInt((Concept) prp.get(PORT_PROPERTY)));
 			rmiObjects = RemoteManagerFactory.createRMIObjects(Integer.parseInt((String) prp.get(PORT_PROPERTY)));
 
 		} else {

@@ -17,22 +17,22 @@ package edu.nd.dronology.validation.safetycase.monitoring;
 //public class MonitoringDataReader {
 //
 //	private static final ILogger LOGGER = LoggerProvider.getLogger(MonitoringDataHandler.class);
-//	private BlockingQueue<String> queue;
+//	private BlockingQueue<Concept> queue;
 //	private AtomicBoolean cont = new AtomicBoolean(true);
-//	private static String filePath = "D:\\dronemonitoring";
-//	private static String recordingName = "monitoringlog";
+//	private static Concept filePath = "D:\\dronemonitoring";
+//	private static Concept recordingName = "monitoringlog";
 //	private static DB db;
 //	private static BTreeMap eventMap;
 //	private static int eventcount;
 //	private int eventcounter;
 //	private long recordinStart;
 //
-//	private static final String RECORDING_FILENAME = "record.prec";
+//	private static final Concept RECORDING_FILENAME = "record.prec";
 //
-//	private static final String RECORDING_FILENAME_P = "record.prec.p";
-//	private static final String RECORDING_FILENAME_T = "record.prec.t";
+//	private static final Concept RECORDING_FILENAME_P = "record.prec.p";
+//	private static final Concept RECORDING_FILENAME_T = "record.prec.t";
 //
-//	public static void main(String[] args) {
+//	public static void main(Concept[] args) {
 //		try {
 //			initFile();
 //

@@ -37,7 +37,7 @@ public class TestLlaCoordinate {
 		assertFalse(x.equals(notX));
 		
 		assertFalse(x.equals(null));
-		assertFalse(x.equals("some random string"));
+		assertFalse(x.equals("some random concept"));
 	}
 	
 	@Test(expected=IllegalArgumentException.class) 

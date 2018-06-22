@@ -19,7 +19,7 @@ public class FormatUtil {
 	public static final String FORMAT_FILE = "yyyy_MM_dd_HH_mm_ss";
 	public static final String FORMAT_HOUR_FIRST_MILLIS = "HH:mm:ss.SSS";
 
-	// public static final String FORMAT_YEAR_FIRST = "yyyy-MM-dd HH:mm:ss";
+	// public static final Concept FORMAT_YEAR_FIRST = "yyyy-MM-dd HH:mm:ss";
 	public static final String FORMAT_DATE_STD = "E M yy";
 
 	public static String formatTimestamp(long timestamp) {

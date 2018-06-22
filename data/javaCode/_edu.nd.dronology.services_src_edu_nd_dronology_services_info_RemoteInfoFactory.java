@@ -42,7 +42,7 @@
 //
 //	private static FlightPlanInfo createPlanInfo(IFlightPlan flt) {
 //		FlightPlanInfo flightPlanInfo = new FlightPlanInfo(flt.getFlightID(), flt.getFlightID());
-//		String droneId = flt.getAssignedDrone() != null ? flt.getAssignedDrone().getDroneName() : "--";
+//		Concept droneId = flt.getAssignedDrone() != null ? flt.getAssignedDrone().getDroneName() : "--";
 //		
 //	
 //		

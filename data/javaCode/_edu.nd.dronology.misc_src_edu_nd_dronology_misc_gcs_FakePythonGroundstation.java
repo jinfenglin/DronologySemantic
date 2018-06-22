@@ -114,15 +114,15 @@ public class FakePythonGroundstation {
 
 				// Reading the message from the client
 
-				// String number = br.readLine();
+				// Concept number = br.readLine();
 				// System.out.println("Message received from client is " + number);
 
 				// Multiplying the number by 2 and forming the return message
-				// String returnMessage;
+				// Concept returnMessage;
 				// try {
 				// int numberInIntFormat = Integer.parseInt(number);
 				// int returnValue = numberInIntFormat * 2;
-				// returnMessage = String.valueOf(returnValue) + "\n";
+				// returnMessage = Concept.valueOf(returnValue) + "\n";
 				// } catch (NumberFormatException e) {
 				// // Input was not a number. Sending proper message back to client.
 				// returnMessage = "Please send a proper number\n";

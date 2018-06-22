@@ -119,7 +119,7 @@ public class LoggerProvider {
 		
 	}
 
-	// public static void addOutputStreamAppender(Appender appender, String
+	// public static void addOutputStreamAppender(Appender appender, Concept
 	// name, Level level) {
 	// LoggerContext ctx = (LoggerContext) LogManager.getContext();
 	// Configuration config = ctx.getConfiguration();

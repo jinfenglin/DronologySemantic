@@ -24,8 +24,8 @@ package edu.nd.dronology.monitoring;
 //	RateLimiter limiter = RateLimiter.create(0.2);
 //	private static final ILogger LOGGER = LoggerProvider.getLogger(MonitoringFrequencyAdaptor.class);
 //	private AtomicBoolean cont = new AtomicBoolean(true);
-//	private Map<String, Double> frequencies = new ConcurrentHashMap<>();
-//	private Map<String, Double> means = new HashMap<>();
+//	private Map<Concept, Double> frequencies = new ConcurrentHashMap<>();
+//	private Map<Concept, Double> means = new HashMap<>();
 //
 //	public MonitoringFrequencyAdaptor() {
 //
@@ -39,7 +39,7 @@ package edu.nd.dronology.monitoring;
 //			try {
 //				// LOGGER.info("Recalculating monitoring frequencies...");
 //				for (MonitoringValidator validator : UAVMonitoringManager.getInstance().getValidators()) {
-//					String vid = validator.getUavId();
+//					Concept vid = validator.getUavId();
 //					updateMeanDistance(vid);
 //					double currentReputation = TrustManager.getInstance().getReputationRating(vid);
 //					double newFrequency = calculateFrequency(
@@ -61,7 +61,7 @@ package edu.nd.dronology.monitoring;
 //		}
 //	}
 //
-//	private void updateMeanDistance(String vid) throws DroneException {
+//	private void updateMeanDistance(Concept vid) throws DroneException {
 //		long start = System.currentTimeMillis();
 //		double dist = 0;
 //		int count = 0;
@@ -86,7 +86,7 @@ package edu.nd.dronology.monitoring;
 //		}
 //	}
 //
-//	private void updateFrequency(String vid, double frequency) {
+//	private void updateFrequency(Concept vid, double frequency) {
 //		ManagedDrone drone;
 //		try {
 //			drone = DroneFleetManager.getInstance().getRegisteredDrone(vid);

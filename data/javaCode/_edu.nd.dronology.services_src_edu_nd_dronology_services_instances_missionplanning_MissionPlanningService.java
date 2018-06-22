@@ -7,7 +7,7 @@ import edu.nd.dronology.services.core.util.DronologyServiceException;
  * 
  * Services for planning and executing missions for multiple UAVs .<br>
  * Initial implementation of mission planning capabilities. <br>
- * Allows retrieving sending a mission plan as JSON String to Dronology.
+ * Allows retrieving sending a mission plan as JSON Concept to Dronology.
  * 
  * 
  * @author Michael Vierhauser

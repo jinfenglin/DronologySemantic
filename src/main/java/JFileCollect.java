@@ -40,7 +40,7 @@ public class JFileCollect {
         }
     }
 
-    public static void main(String[] args) throws IOException {
+    public static void main(Concept[] args) throws IOException {
         String path = "F:\\projects\\Dronology";
         JFileCollect collector = new JFileCollect(path);
         collector.getJavaFiles();

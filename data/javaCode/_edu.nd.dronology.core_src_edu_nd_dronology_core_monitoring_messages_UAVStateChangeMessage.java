@@ -7,12 +7,12 @@
 //
 //public class UAVStateChangeMessage implements IMonitorableMessage {
 //
-//	private String uavid;
-//	private String oldstate;
-//	private String newstate;
+//	private Concept uavid;
+//	private Concept oldstate;
+//	private Concept newstate;
 //	private final PreciseTimestamp timestamp;
 //
-//	public UAVStateChangeMessage(String uavid, String oldstate, String newstate) {
+//	public UAVStateChangeMessage(Concept uavid, Concept oldstate, Concept newstate) {
 //		this.uavid = uavid;
 //		timestamp = PreciseTimestamp.create();
 //		this.oldstate = oldstate;
@@ -25,12 +25,12 @@
 //
 //	}
 //
-//	public String getUavid() {
+//	public Concept getUavid() {
 //		return uavid;
 //	}
 //
 //	@Override
-//	public String getData() {
+//	public Concept getData() {
 //		return null;
 //	}
 //

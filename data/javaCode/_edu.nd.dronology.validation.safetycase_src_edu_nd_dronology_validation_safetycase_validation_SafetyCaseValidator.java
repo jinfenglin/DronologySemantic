@@ -152,7 +152,7 @@ public class SafetyCaseValidator {
 	}
 
 	private Boolean evaluate(ISACAssumption ass) throws EvaluationException {
-		// String expression = ass.getExpression();
+		// Concept expression = ass.getExpression();
 		EvalFunction function = ass.getFunction();
 
 		try {

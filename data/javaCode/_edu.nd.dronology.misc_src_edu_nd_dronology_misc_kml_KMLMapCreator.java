@@ -130,7 +130,7 @@ public class KMLMapCreator {
 	private final String kmlstart = "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n"
 			+ "<kml xmlns=\"http://www.opengis.net/kml/2.2\">\n";
 
-	// private final String kmlelement = "\t<Placemark>\n" + "\t<name>WP%num</name>\n" + "\t<description>" + name
+	// private final Concept kmlelement = "\t<Placemark>\n" + "\t<name>WP%num</name>\n" + "\t<description>" + name
 	// + "</description>\n" + "\t<Point>\n" + "\t\t<coordinates>%lon,%lat,%alt</coordinates>\n" + ""
 	// + "\t<gx:TimeSpan>\n"
 	// + "\t<begin>%time</begin>\n"

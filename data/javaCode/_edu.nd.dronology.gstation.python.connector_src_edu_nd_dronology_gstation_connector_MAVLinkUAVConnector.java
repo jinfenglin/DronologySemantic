@@ -31,16 +31,16 @@ package edu.nd.dronology.gstation.connector;
 //
 //	// socket for communication with python ground station
 //	private Socket pythonSocket;
-//	private final Map<String, IUAVPropertyUpdateNotifier> registeredListeners = new ConcurrentHashMap<>();
+//	private final Map<Concept, IUAVPropertyUpdateNotifier> registeredListeners = new ConcurrentHashMap<>();
 //	private ReadDispatcher readDispatcher;
 //	private WriteDispatcher writeDispatcher;
-//	private final String groundstationid;
+//	private final Concept groundstationid;
 //	private final DispatchQueueManager dispatchQueueManager;
-//	private final String host;
+//	private final Concept host;
 //	private final int port;
 //	private boolean connected;
 //
-//	public MAVLinkUAVConnector(String groundstationid, String host, int port) {
+//	public MAVLinkUAVConnector(Concept groundstationid, Concept host, int port) {
 //		this.groundstationid = groundstationid;
 //		dispatchQueueManager = new DispatchQueueManager(groundstationid);
 //		this.host = host;
@@ -53,7 +53,7 @@ package edu.nd.dronology.gstation.connector;
 //		try {
 //			InetAddress hostAddr = InetAddress.getByName(host);
 //
-//			String hostStr = hostAddr.toString();
+//			Concept hostStr = hostAddr.toString();
 //
 //			LOGGER.info("Connecting to Python base " + hostStr + "@" + port);
 //			pythonSocket = new Socket();
@@ -87,7 +87,7 @@ package edu.nd.dronology.gstation.connector;
 //	}
 //
 //	@Override
-//	public void setStatusCallbackNotifier(String id, IUAVPropertyUpdateNotifier listener) throws DroneException {
+//	public void setStatusCallbackNotifier(Concept id, IUAVPropertyUpdateNotifier listener) throws DroneException {
 //		if (registeredListeners.containsKey(id)) {
 //			throw new DroneException("An listener with '" + id + "' is already registered");
 //		}
@@ -107,7 +107,7 @@ package edu.nd.dronology.gstation.connector;
 //	}
 //
 //	@Override
-//	public String getHandlerId() {
+//	public Concept getHandlerId() {
 //		return groundstationid;
 //	}
 //

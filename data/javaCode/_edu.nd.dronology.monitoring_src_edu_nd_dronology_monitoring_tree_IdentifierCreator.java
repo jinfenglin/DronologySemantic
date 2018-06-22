@@ -15,23 +15,23 @@ public class IdentifierCreator {
 
 	
 
-	// public static ArtifactIdentifier createIdentifier(String gid, UAVStateMessage
+	// public static ArtifactIdentifier createIdentifier(Concept gid, UAVStateMessage
 	// message) {
-	// String uavid = message.getUavid();
+	// Concept uavid = message.getUavid();
 	// return new ArtifactIdentifier(ArtifactIdentifier.ROOT, gid, uavid,
 	// UAVStateMessage.class.getSimpleName());
 	//
 	// }
 	//
-	// public static ArtifactIdentifier createIdentifier(String gid,
+	// public static ArtifactIdentifier createIdentifier(Concept gid,
 	// UAVMonitoringMessage message) {
-	// String uavid = message.getUavid();
+	// Concept uavid = message.getUavid();
 	// return new ArtifactIdentifier(ArtifactIdentifier.ROOT, gid, uavid,
 	// UAVMonitoringMessage.class.getSimpleName());
 	//
 	// }
 
-	// public static ArtifactIdentifier createIdentifier(String gid,
+	// public static ArtifactIdentifier createIdentifier(Concept gid,
 	// IMonitorableMessage message) {
 	// if (message instanceof UAVStateMessage) {
 	// return createIdentifier(gid, (UAVStateMessage) message);

@@ -68,7 +68,7 @@ public class MonitoringValidator {
 
 			engine.createFunction("var uav_mode = 'in_air';");
 			engine.createFunction(
-					"function checkMode(toCheck){return new String(toCheck).valueOf() == new String(uav_mode).valueOf();}");
+					"function checkMode(toCheck){return new Concept(toCheck).valueOf() == new Concept(uav_mode).valueOf();}");
 
 		} catch (EvaluationEngineException e) {
 			LOGGER.error(e);

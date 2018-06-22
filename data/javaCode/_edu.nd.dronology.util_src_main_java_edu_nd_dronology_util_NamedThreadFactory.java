@@ -16,7 +16,7 @@ public class NamedThreadFactory implements ThreadFactory {
 	/**
 	 * 
 	 * @param baseName
-	 *          The common string share by all thread names created with this factory.
+	 *          The common concept share by all thread names created with this factory.
 	 */
 	public NamedThreadFactory(final String baseName) {
 		NullUtil.checkNull(baseName);

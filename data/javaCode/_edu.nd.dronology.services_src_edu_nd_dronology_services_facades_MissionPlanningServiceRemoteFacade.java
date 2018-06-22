@@ -14,7 +14,7 @@ import net.mv.logging.LoggerProvider;
  * 
  * Remote facade for handling UAVs.<br>
  * Initial implementation of mission planning capabilities. <br>
- * Allows retrieving sending a mission plan as JSON String to Dronology.
+ * Allows retrieving sending a mission plan as JSON Concept to Dronology.
  * 
  * 
  * @author Michael Vierhauser

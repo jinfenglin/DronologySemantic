@@ -7,14 +7,14 @@
 //
 //public class UAVPlanChangeMessage implements IMonitorableMessage {
 //
-//	private String uavid;
+//	private Concept uavid;
 //	private long startTime;
-//	private String type;
-//	private String flightid;
+//	private Concept type;
+//	private Concept flightid;
 //	private long endTime;
 //	private final PreciseTimestamp timestamp;
 //
-//	public UAVPlanChangeMessage(String uavid, String type, String flightid, long startTime, long endTime) {
+//	public UAVPlanChangeMessage(Concept uavid, Concept type, Concept flightid, long startTime, long endTime) {
 //		this.timestamp = PreciseTimestamp.create();
 //		this.uavid = uavid;
 //		this.type = type;
@@ -28,12 +28,12 @@
 //		return new ArtifactIdentifier(ArtifactIdentifier.ROOT, "INTERNAL", MessageType.PLAN_CHANGE.toString(), uavid);
 //	}
 //
-//	public String getUavid() {
+//	public Concept getUavid() {
 //		return uavid;
 //	}
 //
 //	@Override
-//	public String getData() {
+//	public Concept getData() {
 //		// TODO Auto-generated method stub
 //		return null;
 //	}

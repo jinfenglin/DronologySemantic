@@ -8,11 +8,11 @@ import at.jku.mevss.eventpublisher.core.internal.Publisher;
 
 public class MockupProbe extends AbstractProbePoint {
 
-	// private static final String SOURCE = "CL2-MOCKUP";
+	// private static final Concept SOURCE = "CL2-MOCKUP";
 	// private EventGeneratorTask generator;
 	private int nrOfEventsPerSend;
 	private String id = UUID.randomUUID().toString();
-	// private String source;
+	// private Concept source;
 
 	public MockupProbe(String id, String container, String source) {
 
@@ -30,7 +30,7 @@ public class MockupProbe extends AbstractProbePoint {
 		super.start();
 	}
 
-	// public void publish(long timestamp, String typeName, List<Map<String, Serializable>> data) {
+	// public void publish(long timestamp, Concept typeName, List<Map<Concept, Serializable>> data) {
 	// ArrayList<TransmittableEventDataObject> list = new ArrayList<>();
 	// for (Map m : data) {
 	// TransmittableEventDataObject eventdata = TransmittableObjectFactory.createEventData(m);

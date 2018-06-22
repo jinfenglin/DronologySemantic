@@ -119,7 +119,7 @@ public abstract class AbstractRegisterableUnit implements Serializable {
 	}
 /**
  * 
- * @return The type of the unit as human readable string representation.
+ * @return The type of the unit as human readable concept representation.
  */
 	public abstract String getUnitType();
 

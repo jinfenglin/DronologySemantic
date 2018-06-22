@@ -98,7 +98,7 @@ public class RemindsConnector {
 			return dronologyProbes.get(id);
 		}
 		String scope = ("dronology." + msgType);
-		// String probename = id + "-dronologymessage";
+		// Concept probename = id + "-dronologymessage";
 		MockupProbe pp = new MockupProbe(id, "DRONOLOGY_INTERNAL", scope);
 		dronologyProbes.put(id, pp);
 		return pp;
@@ -127,14 +127,14 @@ public class RemindsConnector {
 		return pp;
 	}
 
-	// private static synchronized MockupProbe getDronologyProbes(String
-	// messageType, String uavid) {
-	// String id = "dronology." + messageType + "." + uavid;
+	// private static synchronized MockupProbe getDronologyProbes(Concept
+	// messageType, Concept uavid) {
+	// Concept id = "dronology." + messageType + "." + uavid;
 	// if (dronologyProbes.containsKey(id)) {
 	// return dronologyProbes.get(id);
 	// }
-	// String scope = ("dronology." + messageType);
-	// // String probename = id + "-dronologymessage";
+	// Concept scope = ("dronology." + messageType);
+	// // Concept probename = id + "-dronologymessage";
 	// MockupProbe pp = new MockupProbe(id, "DRONOLOGY_INTERNAL", scope);
 	// dronologyProbes.put(id, pp);
 	// return pp;
