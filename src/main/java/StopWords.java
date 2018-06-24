@@ -6,7 +6,7 @@ import java.util.Set;
  *
  */
 public class StopWords {
-    public static Set<String> stopwords = new HashSet(Arrays.asList(new String[]{"a", "as", "able", "about", "above", "according", "accordingly",
+    public static Set<String> regularStopwords = new HashSet(Arrays.asList(new String[]{"a", "as", "able", "about", "above", "according", "accordingly",
             "across", "actually", "after", "afterwards", "again", "against", "aint", "all", "allow", "allows", "almost", "alone", "along",
             "already", "also", "although", "always", "am", "among", "amongst", "an", "and", "another", "any", "anybody", "anyhow", "anyone",
             "anything", "anyway", "anyways", "anywhere", "apart", "appear", "appreciate", "appropriate", "are", "arent", "around", "as", "aside",
@@ -46,5 +46,19 @@ public class StopWords {
             "whither", "who", "whos", "whoever", "whole", "whom", "whose", "why", "will", "willing", "wish", "with", "within", "without", "wont",
             "wonder", "would", "would", "wouldnt", "yes", "yet", "you", "youd", "youll", "youre", "youve", "your", "yours", "yourself",
             "yourselves", "zero",
-            "int", "public", "void", "static","private","in","the"}));
+    }));
+
+    public static Set<String> javaKeyWords = new HashSet(Arrays.asList(new String[]{
+            "int", "public", "void", "static", "private", "in", "the", "enum", "void", "protected",
+            "class", "implements", "interface", "throw", "abstract", "if", "else", "extends", "double",
+            "synchronized", "final", "true", "false", "catch", "goto", "long", "null", "volatile",
+            "assert", "instanceof", "boolean", "throws", "transient", "return", "string", "abstract",
+            "continue", "for", "new", "switch", "assert", "default", "goto", "package", "synchronized", "do",
+            "if", "private", "this", "break", "double", "protected", "throw", "byte", "else", "import", "public",
+            "throws", "case", "enum", "instanceof", "return", "transient", "catch", "extends", "short", "try",
+            "char", "final", "interface", "static", "void", "class", "finally", "long	", "strictfp", "volatile",
+            "const", "float", "native", "super", "while", "arraylist", "hashmap","iterator","hashset","override",
+            "link"
+    }));
+
 }

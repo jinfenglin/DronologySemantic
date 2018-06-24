@@ -2,43 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be552d24-fc98-4c71-bf33-61bf77f1165e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DronologySemantic/AssignConcepts.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DronologySemantic/Concept.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/DronologySemantic/JFileCollect.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/AssignConcepts.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Concept.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/JFileCollect.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/AssignConcepts.class" afterPath="$PROJECT_DIR$/target/classes/AssignConcepts.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/StopWords.class" afterPath="$PROJECT_DIR$/target/classes/StopWords.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DronologySemantic.iml" afterPath="$PROJECT_DIR$/DronologySemantic.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_RuntimeDroneTypes.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_RuntimeDroneTypes.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_messages_UAVPlanChangeMessage.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_messages_UAVPlanChangeMessage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_messages_UAVStateChangeMessage.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_messages_UAVStateChangeMessage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_FormatUtil.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_FormatUtil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_proxy_UAVProxyManager.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_proxy_UAVProxyManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_test_edu_nd_dronology_core_utilities_TestLlaCoordinate.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_test_edu_nd_dronology_core_utilities_TestLlaCoordinate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_MAVLinkUAVConnector.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_MAVLinkUAVConnector.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_FakePassivPythonGroundstation.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_FakePassivPythonGroundstation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_FakePassivPythonGroundstation2.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_FakePassivPythonGroundstation2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_FakePythonGroundstation.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_FakePythonGroundstation.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_kml_KMLMapCreator.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_kml_KMLMapCreator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_monitoring_reminds_MockupProbe.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_monitoring_reminds_MockupProbe.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_monitoring_reminds_RemindsConnector.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_monitoring_reminds_RemindsConnector.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_MonitoringFrequencyAdaptor.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_MonitoringFrequencyAdaptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_tree_IdentifierCreator.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_tree_IdentifierCreator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_base_AbstractRegisterableUnit.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_base_AbstractRegisterableUnit.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.services_src_edu_nd_dronology_services_facades_MissionPlanningServiceRemoteFacade.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.services_src_edu_nd_dronology_services_facades_MissionPlanningServiceRemoteFacade.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.services_src_edu_nd_dronology_services_info_RemoteInfoFactory.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.services_src_edu_nd_dronology_services_info_RemoteInfoFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_missionplanning_MissionPlanningService.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_missionplanning_MissionPlanningService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_remote_RemoteConnectionServiceInstance.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_remote_RemoteConnectionServiceInstance.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_JSONMissionPlanReader.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_JSONMissionPlanReader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.util_src_main_java_edu_nd_dronology_util_FileUtil.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.util_src_main_java_edu_nd_dronology_util_FileUtil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.util_src_main_java_edu_nd_dronology_util_NamedThreadFactory.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.util_src_main_java_edu_nd_dronology_util_NamedThreadFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_MonitoringDataReader.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_MonitoringDataReader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_MonitoringValidator.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_MonitoringValidator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_SafetyCaseValidator.java" afterPath="$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_SafetyCaseValidator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/javaCode/_net.mv.logging_src_main_java_net_mv_logging_LoggerProvider.java" afterPath="$PROJECT_DIR$/data/javaCode/_net.mv.logging_src_main_java_net_mv_logging_LoggerProvider.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/res.txt" afterPath="$PROJECT_DIR$/data/res.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/AssignConcepts.java" afterPath="$PROJECT_DIR$/src/main/java/AssignConcepts.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/StopWords.java" afterPath="$PROJECT_DIR$/src/main/java/StopWords.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,23 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JFileCollect.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JFileCollect.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AssignConcepts.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/AssignConcepts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4">
-              <caret line="87" column="60" lean-forward="true" selection-start-line="87" selection-start-column="60" selection-end-line="87" selection-end-column="60" />
+            <state relative-caret-position="-114">
+              <caret line="54" column="51" lean-forward="true" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,81 +36,8 @@
       <file leaf-file-name="StopWords.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/StopWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArtfifactConcept.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ArtfifactConcept.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-              <folding>
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Concept.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Concept.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MatchedNgram.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MatchedNgram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-              <folding>
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_NedCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_NedCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#1508#1509#0" expanded="false" />
-                <element signature="e#1536#1537#0" expanded="false" />
-                <element signature="e#1668#1669#0" expanded="false" />
-                <element signature="e#1695#1696#0" expanded="false" />
-                <element signature="e#1827#1828#0" expanded="false" />
-                <element signature="e#1854#1855#0" expanded="false" />
-                <element signature="e#1982#1983#0" expanded="false" />
-                <element signature="e#2009#2010#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="database-relation-context.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/semantics/database-relation-context.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="275" column="33" lean-forward="false" selection-start-line="275" selection-start-column="24" selection-end-line="275" selection-end-column="33" />
+            <state relative-caret-position="410">
+              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -170,28 +54,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>faa</find>
-      <find>collision avoidance</find>
-      <find>collision avoidance technology</find>
-      <find>collision_avoidance</find>
-      <find>ned</find>
-      <find>parseJavaFile</find>
-      <find>in</find>
-      <find>the</find>
-      <find>getN</find>
-      <find>getNg</find>
-      <find>match</find>
-      <find>flight mode</find>
       <find>collision</find>
       <find>getNgarms</find>
-      <find>ned</find>
       <find>conceptS</find>
       <find>concept</find>
-      <find>string</find>
-      <find>run</find>
       <find>valid</find>
       <find>to</find>
       <find>by</find>
+      <find>relative</find>
+      <find>concepts</find>
+      <find>parseJavaFile</find>
+      <find>flight zone</find>
+      <find>zone</find>
+      <find>matchConcept</find>
+      <find>getN</find>
+      <find>run</find>
+      <find>write</find>
+      <find>final</find>
+      <find>clean(</find>
+      <find>br</find>
+      <find>tokenzie</find>
+      <find>throw</find>
+      <find>getNg</find>
+      <find>getNgrams</find>
+      <find>a</find>
+      <find>@</find>
+      <find>@a</find>
+      <find>@author</find>
+      <find>clean</find>
+      <find>string</find>
+      <find>prepro</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -214,12 +106,16 @@
         <option value="$PROJECT_DIR$/src/AssignConcepts.java" />
         <option value="$PROJECT_DIR$/src/main/java/String.java" />
         <option value="$PROJECT_DIR$/src/main/java/Concept.java" />
-        <option value="$PROJECT_DIR$/src/main/java/StopWords.java" />
         <option value="$PROJECT_DIR$/src/main/java/ArtfifactConcept.java" />
         <option value="$PROJECT_DIR$/src/main/java/MatchedNgram.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/JFileCollect.java" />
         <option value="$PROJECT_DIR$/data/res.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/TfIdeCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/origin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TFIDFCalculator.java" />
+        <option value="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_DroneFlightStateManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StopWords.java" />
         <option value="$PROJECT_DIR$/src/main/java/AssignConcepts.java" />
       </list>
     </option>
@@ -277,7 +173,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -372,12 +267,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="semantics" />
+              <option name="myItemId" value="cleanJava" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
@@ -427,6 +323,36 @@
     <configuration default="false" name="AssignConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="AssignConcepts" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DronologySemantic" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TFIDFCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="TFIDFCalculator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DronologySemantic" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="origin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="origin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -676,6 +602,7 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -807,6 +734,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -835,14 +768,18 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.JFileCollect" />
       <item index="1" class="java.lang.String" itemvalue="Application.AssignConcepts" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TFIDFCalculator" />
+      <item index="3" class="java.lang.String" itemvalue="Application.origin" />
     </list>
     <recent_temporary>
-      <list size="2">
+      <list size="4">
         <item index="0" class="java.lang.String" itemvalue="Application.AssignConcepts" />
-        <item index="1" class="java.lang.String" itemvalue="Application.JFileCollect" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TFIDFCalculator" />
+        <item index="2" class="java.lang.String" itemvalue="Application.origin" />
+        <item index="3" class="java.lang.String" itemvalue="Application.JFileCollect" />
       </list>
     </recent_temporary>
   </component>
@@ -858,12 +795,14 @@
       <updated>1529596389999</updated>
       <workItem from="1529596393757" duration="1632000" />
       <workItem from="1529598101389" duration="7537000" />
-      <workItem from="1529618683354" duration="11764000" />
+      <workItem from="1529618683354" duration="15249000" />
+      <workItem from="1529768482272" duration="12050000" />
+      <workItem from="1529851744213" duration="1565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20933000" />
+    <option name="totallyTimeSpent" value="38033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -871,28 +810,28 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33044422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2510661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2835821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3997833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32719395" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -913,27 +852,19 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/AssignConcepts.java</url>
-          <line>94</line>
+          <line>227</line>
           <properties />
-          <option name="timeStamp" value="26" />
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="30" />
+      <option name="time" value="57" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="conceptMap" language="JAVA" />
-        <watch expression="conceptMap.containsKey(&quot;collision avoidance&quot;)" language="JAVA" />
-        <watch expression="acronymMap" language="JAVA" />
-        <watch expression="conceptMap.get(wordInStr)" language="JAVA" />
+        <watch expression="queryNGram" language="JAVA" />
+        <watch expression="tfidfCalculator.getTopN(5)" language="JAVA" />
+        <watch expression="cleanTargetFiles.get(file)" language="JAVA" />
         <watch expression="tokens" language="JAVA" />
-        <watch expression="bigrams" language="JAVA" />
-        <watch expression="relatedConcepts" language="JAVA" />
-        <watch expression="iGrams" language="JAVA" />
-        <watch expression="topGrams" language="JAVA" />
-        <watch expression="topConcepts" language="JAVA" />
-        <watch expression="topConcepts" language="JAVA" />
-        <watch expression="res" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -942,136 +873,164 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/JFileCollect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="36" column="58" lean-forward="false" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AssignConcepts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1881">
-          <caret line="101" column="42" lean-forward="false" selection-start-line="101" selection-start-column="42" selection-end-line="101" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_RuntimeDroneTypes.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_ReadDispatcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#2364#2365#0" expanded="false" />
-            <element signature="e#2408#2409#0" expanded="false" />
-            <element signature="e#2510#2511#0" expanded="false" />
-            <element signature="e#2552#2553#0" expanded="false" />
-          </folding>
+          <caret line="0" column="1791" lean-forward="false" selection-start-line="0" selection-start-column="1781" selection-end-line="0" selection-end-column="1791" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Concept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="88" lean-forward="false" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/semantics/database-relation-context.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/semantics/database-relation-short.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/semantics/database-category.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/semantics/database-relation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/res.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="82" lean-forward="false" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/semantics/database-category.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="57" lean-forward="false" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/semantics/database-relation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="51" lean-forward="false" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_CollisionAvoider.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_test_MonitoringConnectionTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_DroneSnapshot.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_tree_TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="56" lean-forward="false" selection-start-line="0" selection-start-column="54" selection-end-line="0" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_ServiceInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Acronym.java" />
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_exceptions_FlightZoneException.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_monitor_MonitorDialog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/lang/String.java" />
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_RuntimeDroneTypes.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_JSONSendTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#2364#2365#0" expanded="false" />
-            <element signature="e#2408#2409#0" expanded="false" />
-            <element signature="e#2510#2511#0" expanded="false" />
-            <element signature="e#2552#2553#0" expanded="false" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_DroneFlightStateManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_PingPongCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_PreciseTimestamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_nvecsimulator_NvecInterpolator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_DroneFleetManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_uav_IStopStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_flight_manager_TestSoloDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_StatusDispatchThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_UAVModeChangeMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="204" lean-forward="false" selection-start-line="0" selection-start-column="204" selection-end-line="0" selection-end-column="204" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_checker_DistanceChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_test_BaseServiceProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_scripts_RRDemoScript.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_service_connector_IDroneConnectorServiceInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_FlightPlanInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_IFlightRoute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IRemotable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_MonitoringFrequencyAdaptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1079,142 +1038,218 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/semantics/database.txt">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="156">
-          <caret line="6239" column="65" lean-forward="false" selection-start-line="6239" selection-start-column="65" selection-end-line="6239" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_NedCommand.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_Discuss.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1508#1509#0" expanded="false" />
-            <element signature="e#1536#1537#0" expanded="false" />
-            <element signature="e#1668#1669#0" expanded="false" />
-            <element signature="e#1695#1696#0" expanded="false" />
-            <element signature="e#1827#1828#0" expanded="false" />
-            <element signature="e#1854#1855#0" expanded="false" />
-            <element signature="e#1982#1983#0" expanded="false" />
-            <element signature="e#2009#2010#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/semantics/database-relation-context.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="275" column="33" lean-forward="false" selection-start-line="275" selection-start-column="24" selection-end-line="275" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="2227" column="16" lean-forward="false" selection-start-line="2227" selection-start-column="16" selection-end-line="2227" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/nio/file/Files.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="3240" column="31" lean-forward="false" selection-start-line="3240" selection-start-column="31" selection-end-line="3240" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/semantics/database-relation-short.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="562" column="29" lean-forward="false" selection-start-line="562" selection-start-column="29" selection-end-line="562" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/res.txt">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_StopCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="29" lean-forward="true" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_PhysicalDroneFleetFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_PlanPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-559">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_fleet_manager_TestRuntimeDroneTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_ManagedDrone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1539">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_AbstractDroneCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_messages_UAVStateChangeMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_DronologyConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141">
+          <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Concept.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="-46">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MatchedNgram.java">
+    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_plan_FullMissionPlan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="190">
+          <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
           <folding>
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2949#2950#0" expanded="false" />
+            <element signature="e#2985#2986#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_DroneFleetManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="62" lean-forward="false" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_DronologyConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-798">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_PlanPoolManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_mission_RouteSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_messages_UAVMonitorableMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-912">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_IFlightSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_nvecsimulator_NvecInterpolator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_PreciseTimestamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-741">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_status_DroneCollectionStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ArtfifactConcept.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StopWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="410">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JFileCollect.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_CoordinateChange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_exceptions_DroneException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_AbstractDroneFleetFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_NVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1482">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AssignConcepts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="87" column="60" lean-forward="true" selection-start-line="87" selection-start-column="60" selection-end-line="87" selection-end-column="60" />
+        <state relative-caret-position="-114">
+          <caret line="54" column="51" lean-forward="true" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

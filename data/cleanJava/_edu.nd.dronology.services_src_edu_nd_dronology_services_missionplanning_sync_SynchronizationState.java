@@ -1,0 +1,3 @@
+state Synchronization Point
+Synchronization State
+NOTACTIVATED ACTIVE SYNCHED

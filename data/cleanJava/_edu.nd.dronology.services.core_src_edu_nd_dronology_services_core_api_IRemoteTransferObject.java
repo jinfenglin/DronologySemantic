@@ -1,0 +1,1 @@
+Remote Transfer Object Serializable
