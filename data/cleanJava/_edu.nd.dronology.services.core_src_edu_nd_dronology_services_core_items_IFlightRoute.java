@@ -1,11 +1,17 @@
-Flight Route Persistable Item
+Flight Route
+Persistable Item
 Description
-set Description description
-set Category category
+Description
+description
 Category
-List Waypoint Waypoints
+category
+Category
+Waypoints
 add Waypoint Waypoint waypoint
-set Takeoff Altitude altitude
-add Waypoint Waypoint waypoint index
+Takeoff Altitude
+altitude
+add Waypoint Waypoint waypoint
+index
 remove Waypoint Waypoint waypoint
-Waypoint remove Waypoint index
+Waypoint remove Waypoint
+index

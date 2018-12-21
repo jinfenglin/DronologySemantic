@@ -1,13 +1,18 @@
 Test Ned Command
 test Getters
-Ned Command Ned Command
-Equals North
-Equals East
+Ned Command
+Ned Command
 Equals
-Equals Time
+North
+Equals
+East
+Equals
+Equals
+Time
 test
 java docs
-Ned Command north Ned Command
+Ned Command north
+Ned Command
 Equals north North
 Equals north East
 Equals north

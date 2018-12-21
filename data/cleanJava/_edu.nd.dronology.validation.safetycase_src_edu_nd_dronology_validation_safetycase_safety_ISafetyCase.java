@@ -1,3 +1,3 @@
 Safety
-List ISAC Assumption Assumptions
+Assumptions
 ISAC Assumption Assumption

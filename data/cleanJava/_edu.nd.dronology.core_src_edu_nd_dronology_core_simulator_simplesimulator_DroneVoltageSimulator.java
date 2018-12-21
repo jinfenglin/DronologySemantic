@@ -1,4 +1,8 @@
-Voltage simulator minute flight battery decreases volts
+Voltage simulator
+minute
+flight
+battery decreases
+volts
 Drone Voltage Simulator
 voltage
 Battery State CHARGING DEPLETING STABLE
@@ -23,7 +27,9 @@ battery State Battery State DEPLETING
 time Check Point System current Time Millis check Point Time
 time Check Point
 check Point Time System current Time Millis Reset check Point time
-Volts drained number elapsed seconds
+Volts drained
+number
+elapsed seconds
 voltage Drain SIMULATOR BATTERY DRAIN VOLTS time Check Point
 voltage voltage voltage Drain
 Voltage

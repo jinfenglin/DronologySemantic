@@ -1,19 +1,29 @@
-Takeoff Altitude Window Window
+Takeoff Altitude Window
+Window
 serial Version UID
 ALTITUDE
 Text Field txt Altitude
 uavid
-Takeoff Altitude Window uavid
+Takeoff Altitude Window
+uavid
 uavid uavid
-set Caption Takeoff Altitude
-set Modal
-Vertical Layout total Layout Vertical Layout
-Label lbl Altitude Label Altitude
-txt Altitude Text Field
-txt Altitude set ALTITUDE
-Horizontal Layout button Layout Horizontal Layout
-Button cancel Button Button Cancel
-Button draw Button Button Takeoff
+Caption
+Takeoff Altitude
+Modal
+Vertical Layout total Layout
+Vertical Layout
+Label lbl Altitude
+Label Altitude
+txt Altitude
+Text Field
+txt Altitude
+ALTITUDE
+Horizontal Layout button Layout
+Horizontal Layout
+Button cancel Button
+Button Cancel
+Button draw Button
+Button Takeoff
 button Layout add Components cancel Button draw Button
 total Layout add Components lbl Altitude txt Altitude button Layout
 add Style fr add route layout
@@ -26,12 +36,13 @@ perform Takeoff
 UI Current remove Window
 txt Altitude add Change Listener
 Valid Input
-txt Altitude set ALTITUDE
-set Content total Layout
+txt Altitude
+ALTITUDE
+Content total Layout
 add Style confirm window
-set Position
-set Resizable
-set Closable
+Position
+Resizable
+Closable
 Valid Input
 parse
 Number Format Exception
@@ -39,7 +50,8 @@ perform Takeoff
 Flight Manager Remote Service service
 Base Service Provider provider UI Provider
 service Flight Manager Remote Service provider Remote Manager Service Flight Manager Remote Service
-service takeoff uavid parse txt Altitude
+service takeoff uavid
+parse txt Altitude
 Remote Exception Dronology Service Exception
-UI set Connected
+UI Connected
 print Stack Trace

@@ -1,4 +1,6 @@
-Synchronization Ds predefined built Synchronization Point
+Synchronization Ds
+predefined built
+Synchronization Point
 Sync Constants
 LANDING ASC REACHED SP Landing Ascent Target Reached
 LANDING LONLAT REACHED SP Landing Lon Lat Reached

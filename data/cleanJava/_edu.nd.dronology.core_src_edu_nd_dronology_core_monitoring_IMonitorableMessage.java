@@ -1,5 +1,8 @@
-messages subscribeable monitoring API
-Monitorable Message Serializable
+messages
+subscribeable
+monitoring API
+Monitorable Message
+Serializable
 Artifact Identifier Identifier
 Uavid
 Data

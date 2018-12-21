@@ -1,23 +1,27 @@
-Assumption ISAC Assumption
+Assumption
+ISAC Assumption
 content
 expression
 Monitorable
 Plugable
 weight
-Map params Hash Map
-Map mapping Hash Map
+params
+mapping
 Pattern VARIABLE PATTERN Pattern compile
 Assumption
 UUID random UUID
 Assumption
-set Content content
+Content
+content
 content content
-set Expression expression
+Expression
+expression
 expression expression
-set Monitorable Monitorable
+Monitorable
+Monitorable
 Monitorable Monitorable
-set
-set Plugable Plugable
+Plugable
+Plugable
 Plugable Plugable
 Content
 content
@@ -29,16 +33,25 @@ Plugable
 Plugable
 Weight
 weight
-Parameter param
-params param
-add Parameter key
+Parameter
+param
+params
+param
+add Parameter
+key
 params put key
-Parameter Mapping param
-mapping param
-add Parameter Mapping param mappedparam
+Parameter Mapping
+param
+mapping
+param
+add Parameter Mapping
+param
+mappedparam
 mapping put param mappedparam
 Eval Function Function
-Eval Function function Eval Function weight
+Eval Function function
+Eval Function
+weight
 Matcher matcher VARIABLE PATTERN matcher expression
 matcher find
 param matcher group
@@ -49,12 +62,14 @@ function Parameters size
 function function replace history
 function function replace history
 function function replace
-Builder sb Builder function
+Builder sb
+Builder function
 sb append
-function set Function sb
+function Function sb
 function
-Object read Resolve Object Stream Exception
+Object read Resolve
+Object Stream Exception
 params
-params Hash Map
+params
 mapping
-mapping Hash Map
+mapping

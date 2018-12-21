@@ -1,4 +1,6 @@
-Ground Station Exception Exception
+Ground Station Exception
+Exception
 serial Version UID
-Ground Station Exception text
+Ground Station Exception
+text
 text

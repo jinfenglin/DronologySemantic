@@ -1,70 +1,101 @@
 Mission Util
-Logger LOGGER Logger Provider Logger Mission Util
-activate Route Mission Task active Task Mission Execution Exception
+Provider Mission Util
+activate Route Mission Task active Task
+Mission Execution Exception
 Flight Route Info route
-Collection Flight Route Info routes
+Collection routes
 routes Flight Routeplanning Service Instance Items
 Remote Exception
-Mission Execution Exception Error fetching routes
+Mission Execution Exception Error
+fetching routes
 Flight Route Info routes
 equals active Task Task
 route
 route
-Mission Execution Exception Route active Task Task found
-Array List Waypoint wp Array List route Waypoints
+Mission Execution Exception Route active Task Task
+found
+wp
+route Waypoints
 Flight Manager Service Instance plan Flight active Task UAV active Task Task wp
 Exception
-Mission Execution Exception Error activating flight plan Message
-activate Waypoint Mission Task active Task Mission Execution Exception
-Waypoint wp Waypoint active Task Waypoint
+Mission Execution Exception Error
+activating flight plan Message
+activate Waypoint Mission Task active Task
+Mission Execution Exception
+Waypoint wp
+Waypoint active Task Waypoint
 Flight Manager Service Instance plan Flight active Task UAV active Task Task
-Collections singleton List wp
+Collections singleton wp
 Exception
-Mission Execution Exception Error activating flight plan Message
-Lla Coordinate Waypoint List Mission Task Tasks Mission Execution Exception
-Mission Task task Tasks Tasks size
-task Route Task
+Mission Execution Exception Error
+activating flight plan Message
+Lla Coordinate Waypoint
+Tasks
+Mission Execution Exception
+Mission Task task Tasks
+Tasks size
+task
+Route Task
 Lla Coordinate WP Waypoint task Task
 WP
-Mission Execution Exception task route
-Lla Coordinate Waypoint route Mission Execution Exception
+Mission Execution Exception
+task
+route
+Lla Coordinate Waypoint
+route
+Mission Execution Exception
 Flight Route Info route
 route Flight Routeplanning Service Instance Item route
-Collection Flight Route Info items Flight Routeplanning Service Instance Items
-Flight Route Info items
+Collection items Flight Routeplanning Service Instance Items
+Flight Route Info
+items
 equals route
 route
 route
-Mission Execution Exception Route route found
-Waypoint Waypoint Linked List route Waypoints
+Mission Execution Exception Route route
+found
+Waypoint Waypoint
+Linked route Waypoints
 Waypoint Coordinate
 Remote Exception
 Mission Execution Exception Message
-routename extract point
+routename extract
+point
 route
-Lla Coordinate Point route Mission Execution Exception
+Lla Coordinate Point
+route
+Mission Execution Exception
 Flight Route Info route
 route Flight Routeplanning Service Instance Item route
-Collection Flight Route Info items Flight Routeplanning Service Instance Items
-Flight Route Info items
+Collection items Flight Routeplanning Service Instance Items
+Flight Route Info
+items
 equals route
 route
 route
-Mission Execution Exception Route route found
+Mission Execution Exception Route route
+found
 Waypoint Waypoint route Waypoints
 Waypoint Coordinate
 Remote Exception
 Mission Execution Exception Message
-home coordinates UAV uav variable
+home coordinates
+UAV
+uav
+variable
 route
 Mission Execution Exception
-Lla Coordinate Home uavid Mission Execution Exception
-Collection IUAV Proxy uav List Drone Setup Service Instance Active UA
-IUAV Proxy uav uav List
+Lla Coordinate Home
+uavid
+Mission Execution Exception
+Collection uav Drone Setup Service Instance Active UA
+IUAV Proxy uav uav
 uav equals uavid
 uav Home Location
-Mission Execution Exception UAV uavid found
-stop UAV uavid
+Mission Execution Exception UAV uavid
+found
+stop UAV
+uavid
 Flight Manager Service Instance emergency Stop uavid
 Dronology Service Exception
-LOGGER error
+error

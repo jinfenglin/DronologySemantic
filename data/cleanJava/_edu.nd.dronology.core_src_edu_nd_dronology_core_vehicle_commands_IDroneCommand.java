@@ -1,5 +1,6 @@
 UAV commands
-Drone Command Serializable
+Drone Command
+Serializable
 ATTRIBUTE FREQUENCY frequency
 ATTRIBUTE ALTITUDE altitude
 ATTRIBUTE SPEED speed

@@ -1,16 +1,25 @@
-base commands GCS br
-UAV unique command
-Drone Command Drone Command
+base
+commands
+GCS
+UAV
+unique command
+Drone Command
+Drone Command
 serial Version UID
-Gson GSON Gson Builder enable Complex Map Key Serialization serialize Nulls
-set Date Format Date Format set Field Naming Policy Field Naming Policy LOWER DASHES set Version
+Gson GSON
+Gson Builder enable Complex Key Serialization serialize Nulls
+Date Format Date Format
+Field Naming Policy Field Naming Policy LOWER
+DASHES Version
 serialize Special Floating Point Values create
-Map Object data Hash Map
+data
 uavid
 command
 sendtimestamp
 commandid
-Drone Command uavid command
+Drone Command
+uavid
+command
 uavid uavid
 command command
 commandid UUID random UUID

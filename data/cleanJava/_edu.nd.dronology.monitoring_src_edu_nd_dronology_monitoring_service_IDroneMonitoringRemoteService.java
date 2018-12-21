@@ -1,5 +1,10 @@
-Drone Monitoring Remote Service Remoteable Service
-register Monitoring Message Handler Remote Monitoring Message Handler handler Remote Exception
+Drone Monitoring Remote Service
+Remoteable Service
+register Monitoring Message Handler Remote Monitoring Message Handler handler
+Remote Exception
 register Monitoring Message Handler Remote Monitoring Message Handler handler Artifact Identifier identifier
 Remote Exception
-set Monitoring Frequency uavid frequency Remote Exception
+Monitoring Frequency
+uavid
+frequency
+Remote Exception

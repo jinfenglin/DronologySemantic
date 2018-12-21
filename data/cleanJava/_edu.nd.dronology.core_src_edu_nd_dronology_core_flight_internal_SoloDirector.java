@@ -1,11 +1,14 @@
-Directions flight multiple waypoints
-Solo Director Flight Director
-Logger LOGGER Logger Provider Logger Solo Director
+Directions
+flight
+multiple waypoints
+Solo Director
+Flight Director
+Provider Solo Director
 Managed Drone drone
 safety Diversion
 Lla Coordinate target Position
-List Waypoint Points Array List
-List Lla Coordinate roundabout Path Array List
+Points
+roundabout Path
 Lla Coordinate fly Point
 target Position fly Point
 target Position
@@ -13,15 +16,19 @@ Constructor
 managed Drone
 Solo Director Managed Drone managed Drone
 drone managed Drone
-set Points List Waypoint Points
-Points Array List Points
+Points
+Points
+Points
+Points
 clear Points
 Points clear
 Points
 Points Empty
-called fixing
+called
+fixing
 Lla Coordinate fly Point
-LOGGER info Flying waypoint
+info Flying
+waypoint
 Points Empty
 Waypoint Waypoint Points
 drone fly Waypoint Coordinate Waypoint Approachingspeed
@@ -38,21 +45,25 @@ Points Empty
 Waypoint wp Points remove
 wp reached
 Points Empty
-drone Flight Mode State set Mode Air
+drone Flight Mode State Mode Air
 Flight Zone Exception
-LOGGER error
+error
 add Point Waypoint Point
 Points add Point
 fly Home
-drone fly drone Base Coordinates Dronology Constants HOME SPEED
+drone fly drone Base Coordinates Dronology Constants
+HOME SPEED
 Home Waypoint home
 Util check home
 add Point home
-Array List Waypoint temp Points Array List Points
+temp Points
+Points
 Waypoint Point temp Points
 Point equals home
 Points remove Point
-waypoint left ready home
+waypoint left
+ready
+home
 ready Land
 Points
 ready

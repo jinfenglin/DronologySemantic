@@ -1,8 +1,15 @@
-GCS connects Dronology sends Connection Request Message
-Connection Request Message UAV Message Object Serializable
+GCS connects
+Dronology
+sends
+Connection Request Message
+Connection Request Message
+UAV Message
+Serializable
 serial Version UID
 MESSAGE TYPE connect
-Connection Request Message groundstation
+Connection Request Message
+groundstation
 MESSAGE TYPE groundstation groundstation
-set Type type
+Type
+type
 type type

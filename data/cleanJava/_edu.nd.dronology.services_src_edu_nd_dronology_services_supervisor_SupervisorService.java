@@ -1,4 +1,5 @@
-Supervisor Service Server Service Supervisor Service Instance
+Supervisor Service
+Server Service
 Supervisor Service INSTANCE
 Supervisor Service
 singleton Supervisor Service instance
@@ -6,7 +7,8 @@ Supervisor Service Instance
 INSTANCE
 Supervisor Service
 INSTANCE
-INSTANCE Supervisor Service
+INSTANCE
+Supervisor Service
 INSTANCE
 Supervisor Service Instance init Service Instance
 Supervisor Service Instance
@@ -22,9 +24,15 @@ Drone Specification Location
 service Instance Drone Specification Location
 Workspace Location
 service Instance Workspace Location
-Map Global Properties
+Global Properties
 service Instance Global Properties
-Item file Array overwrite Dronology Service Exception
+Item
+file
+Array
+overwrite
+Dronology Service Exception
 service Instance Item file Array overwrite
-restart service Dronology Service Exception
+restart
+service
+Dronology Service Exception
 Service service restart Service

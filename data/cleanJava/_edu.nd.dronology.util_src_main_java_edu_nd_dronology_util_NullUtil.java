@@ -10,9 +10,13 @@ check Array Object arg
 arg
 Illegal Argument Exception Input parameter
 collection
-Illegal Argument Exception collection collection
-TYPE check Elem Collection TYPE collection
+Illegal Argument Exception
+collection
+collection
+check Elem
+Collection collection
 Util check collection
-behave check
+behave
+check
 collection
 Util check Object

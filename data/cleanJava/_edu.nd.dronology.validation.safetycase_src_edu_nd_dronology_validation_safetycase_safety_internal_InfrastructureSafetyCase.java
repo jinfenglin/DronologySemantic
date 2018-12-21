@@ -1,23 +1,24 @@
-Infrastructure Safety Infrastructure Safety
-List ISAC Assumption assumptions
 Infrastructure Safety
-assumptions Array List
-List ISAC Assumption Assumptions
-Collections unmodifiable List assumptions
+Infrastructure Safety
+assumptions
+Infrastructure Safety
+assumptions
+Assumptions
+Collections unmodifiable assumptions
 add Assumption Assumption ass
 assumptions add ass
-List ISAC Assumption Evaluateable Assumptions
-List ISAC Assumption Assumptions Array List
+Evaluateable Assumptions
+Assumptions
 ISAC Assumption ass assumptions
 ass
 Assumptions add ass
-Collections unmodifiable List Assumptions
-List ISAC Assumption Monitoralbe Assumptions
-List ISAC Assumption monitorable Assumptions Array List
+Collections unmodifiable Assumptions
+Monitoralbe Assumptions
+monitorable Assumptions
 ISAC Assumption ass assumptions
 ass Monitorable
 monitorable Assumptions add ass
-Collections unmodifiable List monitorable Assumptions
+Collections unmodifiable monitorable Assumptions
 ISAC Assumption Assumption
 ISAC Assumption ass assumptions
 ass equals

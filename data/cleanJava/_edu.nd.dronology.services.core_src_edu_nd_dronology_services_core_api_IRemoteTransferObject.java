@@ -1,1 +1,2 @@
-Remote Transfer Object Serializable
+Remote Transfer Object
+Serializable

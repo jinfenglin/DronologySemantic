@@ -1,1 +1,1 @@
-Logger Appender Logger
+Appender

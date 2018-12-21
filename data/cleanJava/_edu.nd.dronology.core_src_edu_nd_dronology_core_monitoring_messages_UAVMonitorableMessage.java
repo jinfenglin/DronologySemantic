@@ -1,8 +1,13 @@
-Base monitorable messages
-UAV Monitorable Message Monitorable Message
+Base
+monitorable messages
+UAV Monitorable Message
+Monitorable Message
 serial Version UID
-Gson GSON Gson Builder enable Complex Map Key Serialization serialize Nulls
-set Date Format Date Format set Field Naming Policy Field Naming Policy LOWER DASHES set Version
+Gson GSON
+Gson Builder enable Complex Key Serialization serialize Nulls
+Date Format Date Format
+Field Naming Policy Field Naming Policy LOWER
+DASHES Version
 serialize Special Floating Point Values create
 Message Type
 COMMAND STATE CHANGE PLAN ACTIVATED GCS MONITORING WAYPOINT REACHED PLAN COMPLETE VIRTUAL UAV ACTIVATED PHYSICAL UAV ACTIVATED PHYSICAL UAV DEACTIVATED FENCE BREACH FENCE CHECK MISSION WAYPOINT COLLISION
@@ -12,9 +17,11 @@ Artifact Identifier
 uavid
 data
 datatype
-UAV Monitorable Message Message Type type uavid
+UAV Monitorable Message Message Type type
+uavid
 type uavid
-UAV Monitorable Message Message Type type uavid Serializable data
+UAV Monitorable Message Message Type type
+uavid Serializable data
 timestamp Precise Timestamp create
 type type
 uavid uavid

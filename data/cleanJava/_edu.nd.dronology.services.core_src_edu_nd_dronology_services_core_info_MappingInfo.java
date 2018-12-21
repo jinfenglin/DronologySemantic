@@ -1,9 +1,13 @@
-Mapping Info Serializable
+Mapping Info
+Serializable
 serial Version UID
 artifactid
-Set mapped Elements
-Mapping Info artifactid Set mapped Elements
+mapped Elements
+Mapping Info
+artifactid
+mapped Elements
 artifactid artifactid
-mapped Elements Hash Set mapped Elements
+mapped Elements
+mapped Elements
 Collection Mapped Element
 Collections unmodifiable Collection mapped Elements

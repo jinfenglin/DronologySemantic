@@ -4,7 +4,9 @@ UAV Listener Manager Instance
 INSTANCE
 UAV Listener Manager
 INSTANCE
-INSTANCE UAV Listener Manager
 INSTANCE
-notify UAV Flight Mode Changed State
+UAV Listener Manager
+INSTANCE
+notify UAV Flight Mode Changed
+State
 notify listeners

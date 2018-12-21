@@ -65,22 +65,43 @@ public class AssignConcepts {
         }
     }
 
+    private List<String> splitOnStopWords(String text) {
+        String[] tokens = text.split("[^a-zA-Z]+");
+        List<String> res = new ArrayList<>();
+        List<String> buffer = new ArrayList<>();
+        for (String token : tokens) {
+            if (stopwords.contains(token.toLowerCase())) {
+                res.add(String.join(" ", buffer));
+                buffer = new ArrayList<>();
+            } else {
+                buffer.add(token);
+            }
+        }
+        res.add(String.join(" ",buffer));
+        return res;
+    }
+
     private List<List<String>> tokenzie(File javaFile) throws IOException {
         String content = new String(Files.readAllBytes(javaFile.toPath()));
+        content = content.replaceAll("<[^>]*>", " ");
         String[] lines = content.split("\n");
         List<List<String>> cleanTokens = new ArrayList<>();
         for (String line : lines) {
             line = line.replaceAll("import [^;]+", " ");
             line = line.replaceAll("package [^;]+;", " ");
             line = line.replaceAll("@author.+", " ");
+            line = line.replaceAll("<[^>]*>[^>]*>]", " ");
             line = line.replaceAll("@\\S+", " ");
-            String[] tokens = line.split("[^a-zA-Z]+");
-            List<String> tmp = new ArrayList<>();
-            for (String token : tokens) {
-                String[] subTokens = token.split("(?<=[a-z])(?=[A-Z])|(?<=[A-Z])(?=[A-Z][a-z])");
-                tmp.addAll(Arrays.asList(subTokens));
+            List<String> words = splitOnStopWords(line);
+            for (String word : words) {
+                String[] tokens = word.split(" ");
+                List<String> tmp = new ArrayList<>();
+                for (String token : tokens) {
+                    String[] subTokens = token.split("(?<=[a-z])(?=[A-Z])|(?<=[A-Z])(?=[A-Z][a-z])");
+                    tmp.addAll(Arrays.asList(subTokens));
+                }
+                cleanTokens.add(tmp);
             }
-            cleanTokens.add(tmp);
         }
         return cleanTokens;
     }

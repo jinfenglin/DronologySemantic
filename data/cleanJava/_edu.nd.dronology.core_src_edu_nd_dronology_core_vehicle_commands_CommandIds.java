@@ -1,12 +1,13 @@
-Ids valid UAV commands
+Ids
+valid UAV commands
 Command Ids
-SET MODE COMMAND set Mode
+MODE COMMAND Mode
 LOCATION COMMAND Location
 PING PONG COMMAND pingpong unused
 TAKEOFF COMMAND takeoff
 STOP COMMAND stop
-SET GROUND SPEED COMMAND set Groundspeed
-SET VELOCITY COMMAND set Velocity
-SET MONITOR FREQUENCY COMMAND set Monitor Frequency
-SET STATE FREQUENCY COMMAND set State Frequency
+GROUND SPEED COMMAND Groundspeed
+VELOCITY COMMAND Velocity
+MONITOR FREQUENCY COMMAND Monitor Frequency
+STATE FREQUENCY COMMAND State Frequency
 CONNECTION RESPONSE connection Response

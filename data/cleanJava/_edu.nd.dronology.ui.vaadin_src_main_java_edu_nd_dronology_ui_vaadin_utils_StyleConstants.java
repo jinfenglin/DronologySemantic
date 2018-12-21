@@ -1,4 +1,6 @@
-Constants CSS styles assigned components
+Constants
+CSS styles assigned
+components
 Style Constants
 Assign Route Dialog
 AF ASSING ROUTE af assign route
@@ -15,4 +17,5 @@ Active Flights Info Panel
 CONTROL PANEL control panel
 FR INFO PANEL fr info panel
 AF INFO PANEL af info panel
-SMALL BUTTON small button
+SMALL BUTTON
+small button

@@ -1,18 +1,32 @@
-Configuration multiple layers map view
+Configuration
+multiple layers
+view
 Layer Descriptor
-List Layer Data layers Array List
-List Layer Data Layers
-Collections unmodifiable List layers
-add Layer layer layer URL Overlay
-layers add Layer Data layer layer URL Overlay
+layers
+Layers
+Collections unmodifiable layers
+add Layer
+layer
+layer URL
+Overlay
+layers add
+Layer Data layer layer URL Overlay
+add Layer
+layer
+layer URL
 add Layer layer layer URL
-add Layer layer layer URL
-information url overlay flag layer displayed map
+information
+url
+overlay flag
+layer displayed
 Layer Data
 layer
 layer URL
 Overlay
-Layer Data layer layer URL Overlay
+Layer Data
+layer
+layer URL
+Overlay
 layer layer
 layer URL layer URL
 Overlay Overlay

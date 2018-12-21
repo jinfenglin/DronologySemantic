@@ -2,10 +2,416 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be552d24-fc98-4c71-bf33-61bf77f1165e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/cleanJava.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/javaCode.rar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/AssignConcepts.class" afterPath="$PROJECT_DIR$/target/classes/AssignConcepts.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/StopWords.class" afterPath="$PROJECT_DIR$/target/classes/StopWords.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/res.txt" afterPath="$PROJECT_DIR$/data/res.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DronologySemantic.iml" afterPath="$PROJECT_DIR$/DronologySemantic.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_Discuss.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_Discuss.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_DronologyConstants.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_DronologyConstants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_IUAVPropertyUpdateNotifier.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_IUAVPropertyUpdateNotifier.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_CollisionAvoidanceCheckTask.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_CollisionAvoidanceCheckTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_CollisionAvoider.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_CollisionAvoider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_DroneSnapshot.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_DroneSnapshot.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_StopEveryone.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_StopEveryone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_NedCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_NedCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_StopCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_StopCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_WaypointCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_WaypointCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_AbstractPosition.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_AbstractPosition.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_LlaCoordinate.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_LlaCoordinate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_NVector.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_NVector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_PVector.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_PVector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_exceptions_DroneException.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_exceptions_DroneException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_exceptions_FlightZoneException.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_exceptions_FlightZoneException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_AbstractDroneFleetFactory.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_AbstractDroneFleetFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_DroneFleetManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_DroneFleetManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_PhysicalDroneFleetFactory.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_PhysicalDroneFleetFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_RuntimeDroneTypes.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_RuntimeDroneTypes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_VirtualDroneFleetFactory.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_VirtualDroneFleetFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_FlightPlanFactory.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_FlightPlanFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_IFlightDirector.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_IFlightDirector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_IFlightPlan.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_IFlightPlan.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_PlanPool.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_PlanPool.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_PlanPoolManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_PlanPoolManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_internal_FlightPlan.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_internal_FlightPlan.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_internal_SimpleTakeoffFlightPlan.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_internal_SimpleTakeoffFlightPlan.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_internal_SoloDirector.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_internal_SoloDirector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flightzone_FlightZoneManager2.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flightzone_FlightZoneManager2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_mission_IMissionPlan.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_mission_IMissionPlan.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_mission_MissionPlan.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_mission_MissionPlan.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_mission_RouteSet.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_mission_RouteSet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_mission_UavRoutePair.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_mission_UavRoutePair.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_ArtifactIdentifier.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_ArtifactIdentifier.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_DronologyMonitoringManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_DronologyMonitoringManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_IMonitorableMessage.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_IMonitorableMessage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_IMonitoringDataHandler.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_IMonitoringDataHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_MessageMarshaller.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_MessageMarshaller.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_messages_UAVMonitorableMessage.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_messages_UAVMonitorableMessage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_messages_UAVPlanChangeMessage.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_messages_UAVPlanChangeMessage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_messages_UAVStateChangeMessage.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_messages_UAVStateChangeMessage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_IBatterySimulator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_IBatterySimulator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_IFlightSimulator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_IFlightSimulator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_IMovementSimulator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_IMovementSimulator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_nvecsimulator_NVECSimulator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_nvecsimulator_NVECSimulator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_nvecsimulator_NvecInterpolator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_nvecsimulator_NvecInterpolator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_simplesimulator_DistanceCalculator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_simplesimulator_DistanceCalculator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_simplesimulator_DroneVoltageSimulator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_simplesimulator_DroneVoltageSimulator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_simplesimulator_FlightSimulator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_simplesimulator_FlightSimulator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_simplesimulator_SimpleSimulator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_simplesimulator_SimpleSimulator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_status_DroneCollectionStatus.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_status_DroneCollectionStatus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_DistanceUtil.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_DistanceUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_DummyLockObject.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_DummyLockObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_FormatUtil.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_FormatUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_ManagedHashTableList.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_ManagedHashTableList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_PreciseTimestamp.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_PreciseTimestamp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_Waypoint.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_Waypoint.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_AbstractDrone.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_AbstractDrone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_DroneAttribute.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_DroneAttribute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_DroneFlightStateManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_DroneFlightStateManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_DroneSafetyStateManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_DroneSafetyStateManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_IDrone.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_IDrone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_IDroneCommandHandler.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_IDroneCommandHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_IUAVProxy.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_IUAVProxy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_ManagedDrone.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_ManagedDrone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_UAVListenerManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_UAVListenerManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_AbstractDroneCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_AbstractDroneCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_CommandIds.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_CommandIds.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_ConnectionResponseCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_ConnectionResponseCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_EmergencyStopCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_EmergencyStopCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_GoToCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_GoToCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_IDroneCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_IDroneCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_LandCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_LandCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_PingPongCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_PingPongCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_SetGimbalRotationCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_SetGimbalRotationCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_SetGimbalTargetCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_SetGimbalTargetCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_SetGroundSpeedCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_SetGroundSpeedCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_SetMonitoringFrequencyCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_SetMonitoringFrequencyCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_SetStateFrequencyCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_SetStateFrequencyCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_SetVelocityCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_SetVelocityCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_TakeoffCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_TakeoffCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_internal_PhysicalDrone.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_internal_PhysicalDrone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_internal_VirtualDrone.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_internal_VirtualDrone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_proxy_UAVProxy.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_proxy_UAVProxy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_proxy_UAVProxyManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_proxy_UAVProxyManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_uav_LandingStrategy.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_uav_LandingStrategy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_collisionavoidance_TestStopEveryone.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_collisionavoidance_TestStopEveryone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_collisionavoidance_guidancecommands_TestNedCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_collisionavoidance_guidancecommands_TestNedCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_collisionavoidance_guidancecommands_TestStopCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_collisionavoidance_guidancecommands_TestStopCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_collisionavoidance_guidancecommands_TestWaypointCommand.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_collisionavoidance_guidancecommands_TestWaypointCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_fleet_manager_TestRuntimeDroneTypes.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_fleet_manager_TestRuntimeDroneTypes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_fleet_manager_TestVirtualDroneFleetFactory.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_fleet_manager_TestVirtualDroneFleetFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_flight_manager_TestSoloDirector.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_flight_manager_TestSoloDirector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_gui_middleware_TestDroneCollectionStatus.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_gui_middleware_TestDroneCollectionStatus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_simulator_nvecsimulator_NvecInterpolatorTest.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_simulator_nvecsimulator_NvecInterpolatorTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_utilities_TestAbstractPosition.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_utilities_TestAbstractPosition.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_utilities_TestCoordinates.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_utilities_TestCoordinates.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_utilities_TestLlaCoordinate.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_utilities_TestLlaCoordinate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_utilities_TestNVector.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_utilities_TestNVector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_utilities_TestPVector.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_utilities_TestPVector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_GroundStationException.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_GroundStationException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_GroundstationConnector.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_GroundstationConnector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_IUAVSafetyValidator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_IUAVSafetyValidator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_MAVLinkUAVConnector.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_MAVLinkUAVConnector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_connect_IncommingGroundstationConnectionServer.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_connect_IncommingGroundstationConnectionServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_AbstractStatusDispatchThread.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_AbstractStatusDispatchThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_DispatchQueueManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_DispatchQueueManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_MonitoringDispatchThread.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_MonitoringDispatchThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_PysicalDroneIdGenerator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_PysicalDroneIdGenerator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_ReadDispatcher.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_ReadDispatcher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_StatusDispatchThread.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_StatusDispatchThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_WriteDispatcher.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_WriteDispatcher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_AbstractUAVMessage.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_AbstractUAVMessage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_ConnectionRequestMessage.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_ConnectionRequestMessage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_ModeChangeMessageTypeAdapter.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_ModeChangeMessageTypeAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_StateMessageTypeAdapter.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_StateMessageTypeAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_UAVAcknowledgeMessage.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_UAVAcknowledgeMessage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_UAVHandshakeMessage.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_UAVHandshakeMessage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_UAVMessageFactory.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_UAVMessageFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_UAVModeChangeMessage.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_UAVModeChangeMessage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_UAVMonitoringMessage.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_UAVMonitoringMessage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_UAVStateMessage.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_UAVStateMessage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_service_connector_DroneConnectorService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_service_connector_DroneConnectorService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_service_connector_DroneConnectorServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_service_connector_DroneConnectorServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_service_connector_IDroneConnectorServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_service_connector_IDroneConnectorServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_test_edu_nd_dronology_groundstation_connector_PhysicalDroneTest.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_test_edu_nd_dronology_groundstation_connector_PhysicalDroneTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_FakePassivPythonGroundstation.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_FakePassivPythonGroundstation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_FakePassivPythonGroundstation2.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_FakePassivPythonGroundstation2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_FakePythonGroundstation.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_FakePythonGroundstation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_JSONSendTester.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_JSONSendTester.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_JsonTester.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_JsonTester.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_JsonTester2.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_JsonTester2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_kml_KMLExporter.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_kml_KMLExporter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_kml_KMLMapCreator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_kml_KMLMapCreator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_scripts_OpenUniversityDemoScript.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_scripts_OpenUniversityDemoScript.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_scripts_RRDemoScript.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_scripts_RRDemoScript.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_scripts_RouteAssignmentDemoScript.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_scripts_RouteAssignmentDemoScript.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_scripts_Runner.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_scripts_Runner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_monitoring_reminds_MockupProbe.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_monitoring_reminds_MockupProbe.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_monitoring_reminds_RemindsConnector.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_monitoring_reminds_RemindsConnector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_monitoring_reminds_RemoteMessageHandler.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_monitoring_reminds_RemoteMessageHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_test_BaseServiceProvider.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_test_BaseServiceProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_test_MonitoringConnectionTester.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_test_MonitoringConnectionTester.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_BaseServiceProvider.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_BaseServiceProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_checker_CollisionInfo.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_checker_CollisionInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_checker_DistanceChecker.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_checker_DistanceChecker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_checker_GeofenceRectangle.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_checker_GeofenceRectangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_checker_SimpleChecker.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_checker_SimpleChecker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_checker_SimpleCheckerMessageHandler.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_checker_SimpleCheckerMessageHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_monitor_MonitorDialog.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_monitor_MonitorDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_monitor_RemoteMessageHandler.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_monitor_RemoteMessageHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_monitor_SimpleMonitor.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_monitor_SimpleMonitor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_IRemoteMonitoringMessageHandler.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_IRemoteMonitoringMessageHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_MonitoringDataHandler3.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_MonitoringDataHandler3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_MonitoringFrequencyAdaptor.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_MonitoringFrequencyAdaptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_SendToSubscriberCallable.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_SendToSubscriberCallable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_service_DroneMonitoringService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_service_DroneMonitoringService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_service_DroneMonitoringServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_service_DroneMonitoringServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_service_DroneMonitoringServiceRemoteFacade.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_service_DroneMonitoringServiceRemoteFacade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_service_IDroneMonitoringRemoteService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_service_IDroneMonitoringRemoteService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_service_IDroneMonitoringServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_service_IDroneMonitoringServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_tree_ArtifactIdentifierTree.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_tree_ArtifactIdentifierTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_tree_IdentifierCreator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_tree_IdentifierCreator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_tree_TreeNode.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_tree_TreeNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IBaseServiceProvider.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IBaseServiceProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IFileChangeNotifyable.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IFileChangeNotifyable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IFileTransmitServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IFileTransmitServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IRemotable.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IRemotable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IRemoteInfoObject.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IRemoteInfoObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IRemoteTransferObject.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IRemoteTransferObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_ServiceInfo.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_ServiceInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_ServiceStatus.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_ServiceStatus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_base_AbstractFileTransmitServerService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_base_AbstractFileTransmitServerService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_base_AbstractFileTransmitServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_base_AbstractFileTransmitServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_base_AbstractRegisterableUnit.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_base_AbstractRegisterableUnit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_base_AbstractServerService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_base_AbstractServerService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_base_AbstractServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_base_AbstractServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_DroneInitializationInfo.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_DroneInitializationInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_DroneSpecificationInfo.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_DroneSpecificationInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_FlightInfo.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_FlightInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_FlightPlanInfo.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_FlightPlanInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_FlightRouteCategoryInfo.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_FlightRouteCategoryInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_FlightRouteInfo.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_FlightRouteInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_MappingInfo.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_MappingInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_RemoteInfoObject.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_RemoteInfoObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_SimulatorScenarioCategoryInfo.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_SimulatorScenarioCategoryInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_SimulatorScenarioInfo.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_SimulatorScenarioInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_TypeSpecificationInfo.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_TypeSpecificationInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_AssignedDrone.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_AssignedDrone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_DroneSpecification.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_DroneSpecification.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_FlightRoute.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_FlightRoute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_IDroneSpecification.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_IDroneSpecification.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_IFlightRoute.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_IFlightRoute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_IPersistableItem.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_IPersistableItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_ISimulatorScenario.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_ISimulatorScenario.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_SimulatorScenario.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_SimulatorScenario.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_listener_IDroneStatusChangeListener.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_listener_IDroneStatusChangeListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_listener_IItemChangeListener.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_listener_IItemChangeListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_listener_IServiceListener.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_listener_IServiceListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_AbstractItemPersistenceProvider.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_AbstractItemPersistenceProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_DroneSpecificationPersistenceProvider.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_DroneSpecificationPersistenceProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_FlightRoutePersistenceProvider.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_FlightRoutePersistenceProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_IPersistenceManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_IPersistenceManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_PersistenceException.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_PersistenceException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_SimulatorScenarioPersistenceProvider.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_SimulatorScenarioPersistenceProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_internal_DroneSpecificationtXStreamPersistor.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_internal_DroneSpecificationtXStreamPersistor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_internal_FlightRouteXStreamPersistor.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_internal_FlightRouteXStreamPersistor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_internal_SimulatorScenarioXStreamPersistor.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_persistence_internal_SimulatorScenarioXStreamPersistor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IDroneSetupRemoteService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IDroneSetupRemoteService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IDroneSimulatorRemoteService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IDroneSimulatorRemoteService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IDroneSpecificationRemoteService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IDroneSpecificationRemoteService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IFileTransmitRemoteService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IFileTransmitRemoteService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IFlightManagerRemoteService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IFlightManagerRemoteService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IFlightRouteplanningRemoteService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IFlightRouteplanningRemoteService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IMissionPlanningRemoteService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IMissionPlanningRemoteService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IRemoteManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IRemoteManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IRemoteServiceListener.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IRemoteServiceListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IRemoteableService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_IRemoteableService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_RemoteInfo.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_remote_RemoteInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_util_DronologyServiceException.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_util_DronologyServiceException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_util_FileManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_util_FileManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_util_UnitState.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_util_UnitState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_util_WatchServiceRunner.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_util_WatchServiceRunner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.launch_src_edu_nd_dronology_services_launch_DronologyServiceRunner.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.launch_src_edu_nd_dronology_services_launch_DronologyServiceRunner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.launch_src_edu_nd_dronology_services_launch_FlyingFieldDemoScript.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.launch_src_edu_nd_dronology_services_launch_FlyingFieldDemoScript.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_dronesetup_DroneSetupService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_dronesetup_DroneSetupService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_dronesetup_DroneSetupServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_dronesetup_DroneSetupServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_dronesetup_IDroneSetupServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_dronesetup_IDroneSetupServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_facades_DroneSetupServiceRemoteFacade.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_facades_DroneSetupServiceRemoteFacade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_facades_DroneSimulatorServiceRemoteFacade.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_facades_DroneSimulatorServiceRemoteFacade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_facades_DroneSpecificationServiceRemoteFacade.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_facades_DroneSpecificationServiceRemoteFacade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_facades_FlightManagerServiceRemoteFacade.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_facades_FlightManagerServiceRemoteFacade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_facades_FlightRouteplanningServiceRemoteFacade.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_facades_FlightRouteplanningServiceRemoteFacade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_facades_MissionPlanningServiceRemoteFacade.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_facades_MissionPlanningServiceRemoteFacade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_info_RemoteInfoFactory.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_info_RemoteInfoFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_dronesimulator_DroneSimulatorService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_dronesimulator_DroneSimulatorService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_dronesimulator_DroneSimulatorServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_dronesimulator_DroneSimulatorServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_dronesimulator_IDroneSimulatorServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_dronesimulator_IDroneSimulatorServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightmanager_FlightInfoCreator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightmanager_FlightInfoCreator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightmanager_FlightManagerService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightmanager_FlightManagerService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightmanager_FlightManagerServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightmanager_FlightManagerServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightmanager_FlightMissionManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightmanager_FlightMissionManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightmanager_IFlightManagerServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightmanager_IFlightManagerServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightroute_FlightRouteplanningService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightroute_FlightRouteplanningService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightroute_FlightRouteplanningServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightroute_FlightRouteplanningServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightroute_IFlightRouteplanningServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_flightroute_IFlightRouteplanningServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_missionplanning_IMissionPlanningServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_missionplanning_IMissionPlanningServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_missionplanning_MissionPlanningService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_missionplanning_MissionPlanningService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_missionplanning_MissionPlanningServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_missionplanning_MissionPlanningServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_remote_IRemoteConnectionServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_remote_IRemoteConnectionServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_remote_RemoteConnectionServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_instances_remote_RemoteConnectionServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_JSONMissionPlanReader.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_JSONMissionPlanReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_MissionExecutionException.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_MissionExecutionException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_patterns_AbstractFlightPattern.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_patterns_AbstractFlightPattern.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_patterns_CoordinatedLandingPattern.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_patterns_CoordinatedLandingPattern.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_patterns_CoordinatedTakeoffPattern.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_patterns_CoordinatedTakeoffPattern.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_patterns_IFlightPattern.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_patterns_IFlightPattern.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_patterns_PatternFactory.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_patterns_PatternFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_patterns_TaskList.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_patterns_TaskList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_plan_FullMissionPlan.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_plan_FullMissionPlan.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_plan_MissionController.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_plan_MissionController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_plan_MissionUtil.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_plan_MissionUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_plan_UAVMissionPlan.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_plan_UAVMissionPlan.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_sync_SyncConstants.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_sync_SyncConstants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_sync_SynchronizationManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_sync_SynchronizationManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_sync_SynchronizationPoint.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_sync_SynchronizationPoint.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_sync_SynchronizationState.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_sync_SynchronizationState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_AbstractMissionTask.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_AbstractMissionTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_DelayTask.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_DelayTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_IMissionTask.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_IMissionTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_LandTask.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_LandTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_PatternTask.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_PatternTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_RouteTask.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_RouteTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_SyncTask.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_SyncTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_TakeoffTask.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_TakeoffTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_TaskFactory.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_TaskFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_WaypointTask.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_tasks_WaypointTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_remote_AbstractRemoteFacade.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_remote_AbstractRemoteFacade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_remote_RemoteManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_remote_RemoteManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_remote_RemoteServerProcessListenerAdapter.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_remote_RemoteServerProcessListenerAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_remote_RemoteService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_remote_RemoteService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_remote_rmi_AbstractRMIRemoteObject.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_remote_rmi_AbstractRMIRemoteObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_remote_rmi_RemoteManagerFactory.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_remote_rmi_RemoteManagerFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_remote_rmi_RemoteRMIRemoteObject.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_remote_rmi_RemoteRMIRemoteObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_specification_DronSpecificationServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_specification_DronSpecificationServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_specification_DroneSpecificationService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_specification_DroneSpecificationService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_specification_IDroneSpecificationServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_specification_IDroneSpecificationServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_supervisor_ISupervisorServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_supervisor_ISupervisorServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_supervisor_LogCleaner.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_supervisor_LogCleaner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_supervisor_SupervisorService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_supervisor_SupervisorService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_supervisor_SupervisorServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_supervisor_SupervisorServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_supervisor_WorkspaceInitializer.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services_src_edu_nd_dronology_services_supervisor_WorkspaceInitializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFAssignRouteComponent.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFAssignRouteComponent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFControlsComponent.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFControlsComponent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFDragLayout.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFDragLayout.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFEmergencyComponent.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFEmergencyComponent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFFollowBar.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFFollowBar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFInfoBox.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFInfoBox.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFInfoPanel.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFInfoPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFMainLayout.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFMainLayout.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFMapComponent.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFMapComponent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFMapViewOperations.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFMapViewOperations.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFMissionOperations.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_AFMissionOperations.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_MapDrawingUtil.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_MapDrawingUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_MissionHandler.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_MissionHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_UAVStatusWrapper.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_activeflights_UAVStatusWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_connector_BaseServiceProvider.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_connector_BaseServiceProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_connector_DronologyActionExecutor.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_connector_DronologyActionExecutor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRControlsComponent.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRControlsComponent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FREditModeController.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FREditModeController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRInfoBox.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRInfoBox.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRInfoPanel.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRInfoPanel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRMainLayout.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRMainLayout.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRMapComponent.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRMapComponent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRMetaInfo.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRMetaInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRTableDisplay.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FRTableDisplay.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FlightRouteIntoNameComparator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_FlightRouteIntoNameComparator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_mapoperations_MapAddMarkerListener.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_mapoperations_MapAddMarkerListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_mapoperations_MarkerDragEndListener.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_mapoperations_MarkerDragEndListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_mapoperations_MarkerMouseOutListener.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_mapoperations_MarkerMouseOutListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_mapoperations_MarkerMouseOverListener.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_mapoperations_MarkerMouseOverListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_mapoperations_PolylineClickListener.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_mapoperations_PolylineClickListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_windows_FRDeleteRouteConfirmation.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_windows_FRDeleteRouteConfirmation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_windows_FRDeleteWayPointConfirmation.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_windows_FRDeleteWayPointConfirmation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_windows_FRNewRouteWindow.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_windows_FRNewRouteWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_windows_FRNewWayPointWindow.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_windows_FRNewWayPointWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_windows_FRUnsavedChangesConfirmation.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_windows_FRUnsavedChangesConfirmation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_windows_FRWayPointPopupView.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_windows_FRWayPointPopupView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_windows_TakeoffAltitudeWindow.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_windows_TakeoffAltitudeWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_map_LeafletmapFactory.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_map_LeafletmapFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_map_VaadinUIMapConstants.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_map_VaadinUIMapConstants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_start_MyUI.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_start_MyUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_start_NavigationBar.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_start_NavigationBar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_start_SplashScreen.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_start_SplashScreen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_Configuration.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_Configuration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_CoordinateUtilities.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_CoordinateUtilities.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_DronologyNotification.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_DronologyNotification.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_ImageProvider.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_ImageProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_JavaScriptInjector.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_JavaScriptInjector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_LayerDescriptor.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_LayerDescriptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_MapMarkerUtilities.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_MapMarkerUtilities.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_StyleConstants.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_StyleConstants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_UIWayPoint.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_UIWayPoint.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_WaitingWindow.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_WaitingWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_YesNoWindow.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_utils_YesNoWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.util_src_main_java_edu_nd_dronology_util_FileUtil.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.util_src_main_java_edu_nd_dronology_util_FileUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.util_src_main_java_edu_nd_dronology_util_Immutables.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.util_src_main_java_edu_nd_dronology_util_Immutables.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.util_src_main_java_edu_nd_dronology_util_NamedThreadFactory.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.util_src_main_java_edu_nd_dronology_util_NamedThreadFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.util_src_main_java_edu_nd_dronology_util_NullUtil.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.util_src_main_java_edu_nd_dronology_util_NullUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.util_src_main_java_edu_nd_dronology_util_Pair.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.util_src_main_java_edu_nd_dronology_util_Pair.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_RemoteValidationMessageHandler.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_RemoteValidationMessageHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_ConstraintValidationInfo.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_ConstraintValidationInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_MonitoringDataHandler.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_MonitoringDataHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_MonitoringDataReader.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_MonitoringDataReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_MonitoringFrequencyAdaptor.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_MonitoringFrequencyAdaptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_UAVValidationInformation.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_UAVValidationInformation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_UAVValidationManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_UAVValidationManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_ValidationResultManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_monitoring_ValidationResultManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_persistor_ISacXstreamPersistor.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_persistor_ISacXstreamPersistor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_persistor_SACPersistenceProvider.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_persistor_SACPersistenceProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_IExternalSafetyCase.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_IExternalSafetyCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_IInfrastructureSafetyCase.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_IInfrastructureSafetyCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_ISACAssumption.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_ISACAssumption.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_ISafetyCase.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_ISafetyCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_internal_Assumption.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_internal_Assumption.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_internal_InfrastructureSafetyCase.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_internal_InfrastructureSafetyCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_internal_UAVSaeftyCase.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_internal_UAVSaeftyCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_misc_EvalTester.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_misc_EvalTester.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_misc_SafetyCaseGeneration.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_safety_misc_SafetyCaseGeneration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_service_DroneSafetyService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_service_DroneSafetyService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_service_DroneSafetyServiceRemoteFacade.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_service_DroneSafetyServiceRemoteFacade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_service_IDroneSafetyRemoteService.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_service_IDroneSafetyRemoteService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_service_IMonitoringValidationListener.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_service_IMonitoringValidationListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_service_internal_DroneSafetyServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_service_internal_DroneSafetyServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_service_internal_IDroneSafetyServiceInstance.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_service_internal_IDroneSafetyServiceInstance.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_trust_ReputationRating.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_trust_ReputationRating.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_trust_TrustManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_trust_TrustManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_trust_VehicleReputation.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_trust_VehicleReputation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_util_BenchmarkLogger.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_util_BenchmarkLogger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_EvalFunction.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_EvalFunction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_EvaluationException.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_EvaluationException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_MonitoredEvent.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_MonitoredEvent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_MonitoringValidator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_MonitoringValidator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_SafetyCaseValidationManager.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_SafetyCaseValidationManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_SafetyCaseValidator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_SafetyCaseValidator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_ValidationEntry.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_ValidationEntry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_ValidationResult.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_ValidationResult.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_engine_EvaluationEngineException.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_engine_EvaluationEngineException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_engine_IEvaluationEngine.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_engine_IEvaluationEngine.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_engine_internal_NashornEvaluationEngine.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_validation_engine_internal_NashornEvaluationEngine.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_test_edu_nd_dronology_monitoring_trust_TrustManagerTest.java" afterPath="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_test_edu_nd_dronology_monitoring_trust_TrustManagerTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_ILogger.java" afterPath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_ILogger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_ILoggerAppender.java" afterPath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_ILoggerAppender.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_LocationConverter.java" afterPath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_LocationConverter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_LoggerAppenderAdapter.java" afterPath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_LoggerAppenderAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_LoggerProvider.java" afterPath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_LoggerProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_factory_LoggingFactory.java" afterPath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_factory_LoggingFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_internal_Activator.java" afterPath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_internal_Activator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_log4j2_Log4JLogForwarder.java" afterPath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_log4j2_Log4JLogForwarder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_log4j2_Log4Jv2Logger.java" afterPath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_log4j2_Log4Jv2Logger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_log4j2_Log4jv2RootLogger.java" afterPath="$PROJECT_DIR$/data/cleanJava/_net.mv.logging_src_main_java_net_mv_logging_log4j2_Log4jv2RootLogger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/AssignConcepts.java" afterPath="$PROJECT_DIR$/src/main/java/AssignConcepts.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/StopWords.java" afterPath="$PROJECT_DIR$/src/main/java/StopWords.java" />
     </list>
@@ -21,11 +427,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AssignConcepts.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AssignConcepts.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/AssignConcepts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-114">
-              <caret line="54" column="51" lean-forward="true" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+            <state relative-caret-position="308">
+              <caret line="84" column="8" lean-forward="false" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,11 +439,63 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Neo4jVisualize.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Neo4jVisualize.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="99" column="9" lean-forward="true" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JFileCollect.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JFileCollect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatchedNgram.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MatchedNgram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_Command.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_Command.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="StopWords.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/StopWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+            <state relative-caret-position="1102">
+              <caret line="60" column="55" lean-forward="false" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -54,36 +512,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>collision</find>
-      <find>getNgarms</find>
-      <find>conceptS</find>
-      <find>concept</find>
-      <find>valid</find>
-      <find>to</find>
-      <find>by</find>
-      <find>relative</find>
-      <find>concepts</find>
-      <find>parseJavaFile</find>
-      <find>flight zone</find>
-      <find>zone</find>
-      <find>matchConcept</find>
-      <find>getN</find>
-      <find>run</find>
-      <find>write</find>
-      <find>final</find>
-      <find>clean(</find>
-      <find>br</find>
-      <find>tokenzie</find>
-      <find>throw</find>
-      <find>getNg</find>
-      <find>getNgrams</find>
+      <find>abstracc</find>
+      <find>abstr</find>
+      <find>abstractposi</find>
+      <find>abstractpos</find>
+      <find>abstractpo</find>
+      <find>abstractp</find>
+      <find>abstractP</find>
+      <find>abs</find>
+      <find>abst</find>
+      <find>abstra</find>
+      <find>abstrac</find>
+      <find>abstract</find>
+      <find>defined</find>
+      <find>active</find>
+      <find>split</find>
+      <find>splitOn</find>
       <find>a</find>
-      <find>@</find>
-      <find>@a</find>
-      <find>@author</find>
-      <find>clean</find>
-      <find>string</find>
-      <find>prepro</find>
+      <find>arr</find>
+      <find>arrayl</find>
+      <find>arraylis</find>
+      <find>instance</find>
+      <find>stopwords.contains</find>
+      <find>arraylist</find>
+      <find>&lt;a</find>
+      <find>array</find>
+      <find>int i</find>
+      <find>list</find>
+      <find>concept</find>
+      <find>power lines</find>
+      <find>addNode</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -108,15 +566,24 @@
         <option value="$PROJECT_DIR$/src/main/java/Concept.java" />
         <option value="$PROJECT_DIR$/src/main/java/ArtfifactConcept.java" />
         <option value="$PROJECT_DIR$/src/main/java/MatchedNgram.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/JFileCollect.java" />
         <option value="$PROJECT_DIR$/data/res.txt" />
         <option value="$PROJECT_DIR$/src/main/java/TfIdeCalculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/origin.java" />
         <option value="$PROJECT_DIR$/src/main/java/TFIDFCalculator.java" />
         <option value="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_DroneFlightStateManager.java" />
+        <option value="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_AbstractPosition.java" />
+        <option value="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_PlanPoolManager.java" />
+        <option value="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_AbstractDroneFleetFactory.java" />
+        <option value="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_RuntimeDroneTypes.java" />
+        <option value="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_IFlightPlan.java" />
+        <option value="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_internal_SimpleTakeoffFlightPlan.java" />
+        <option value="$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_LlaCoordinate.java" />
         <option value="$PROJECT_DIR$/src/main/java/StopWords.java" />
         <option value="$PROJECT_DIR$/src/main/java/AssignConcepts.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Relation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Neo4jVisualize.java" />
       </list>
     </option>
   </component>
@@ -172,7 +639,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -267,14 +733,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cleanJava" />
+              <option name="myItemId" value="semantics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -304,7 +771,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AssignConcepts">
+  <component name="RunManager" selected="Application.Neo4jVisualize">
     <configuration default="false" name="JFileCollect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="JFileCollect" />
@@ -353,6 +820,21 @@
     <configuration default="false" name="origin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="origin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DronologySemantic" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Neo4jVisualize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Neo4jVisualize" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -768,18 +1250,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.JFileCollect" />
       <item index="1" class="java.lang.String" itemvalue="Application.AssignConcepts" />
       <item index="2" class="java.lang.String" itemvalue="Application.TFIDFCalculator" />
       <item index="3" class="java.lang.String" itemvalue="Application.origin" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Neo4jVisualize" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.AssignConcepts" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TFIDFCalculator" />
-        <item index="2" class="java.lang.String" itemvalue="Application.origin" />
-        <item index="3" class="java.lang.String" itemvalue="Application.JFileCollect" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Neo4jVisualize" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AssignConcepts" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TFIDFCalculator" />
+        <item index="3" class="java.lang.String" itemvalue="Application.origin" />
+        <item index="4" class="java.lang.String" itemvalue="Application.JFileCollect" />
       </list>
     </recent_temporary>
   </component>
@@ -797,15 +1281,19 @@
       <workItem from="1529598101389" duration="7537000" />
       <workItem from="1529618683354" duration="15249000" />
       <workItem from="1529768482272" duration="12050000" />
-      <workItem from="1529851744213" duration="1565000" />
+      <workItem from="1529851744213" duration="6953000" />
+      <workItem from="1529966960900" duration="149000" />
+      <workItem from="1544729481363" duration="669000" />
+      <workItem from="1544731548187" duration="29000" />
+      <workItem from="1545356356072" duration="4461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38033000" />
+    <option name="totallyTimeSpent" value="48729000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -817,21 +1305,20 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33044422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33044422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2835821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36620468" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32719395" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32719395" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -839,6 +1326,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Graph Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Graph Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -849,22 +1337,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/AssignConcepts.java</url>
-          <line>227</line>
-          <properties />
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="57" />
+      <option name="time" value="80" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="queryNGram" language="JAVA" />
-        <watch expression="tfidfCalculator.getTopN(5)" language="JAVA" />
-        <watch expression="cleanTargetFiles.get(file)" language="JAVA" />
-        <watch expression="tokens" language="JAVA" />
+        <watch expression="relation" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -873,80 +1350,80 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_ReadDispatcher.java">
+    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_PreciseTimestamp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1791" lean-forward="false" selection-start-line="0" selection-start-column="1781" selection-end-line="0" selection-end-column="1791" />
+        <state relative-caret-position="-741">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_test_MonitoringConnectionTester.java">
+    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_status_DroneCollectionStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArtfifactConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_exceptions_DroneException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_tree_TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_NVector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="56" lean-forward="false" selection-start-line="0" selection-start-column="54" selection-end-line="0" selection-end-column="56" />
+        <state relative-caret-position="-1482">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_ServiceInfo.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_CoordinateChange.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_monitor_MonitorDialog.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_IFlightDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-331">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_mission_UavRoutePair.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_gcs_JSONSendTester.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_IFlightSimulator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_DroneFlightStateManager.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_internal_SoloDirector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-1338">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_PingPongCommand.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_DronologyConstants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_PreciseTimestamp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_nvecsimulator_NvecInterpolator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_DroneFleetManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-171">
+          <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -957,84 +1434,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_flight_manager_TestSoloDirector.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_proxy_UAVProxyManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_dispatch_StatusDispatchThread.java">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa16100.24793/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_NedCommand.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa16100.24615/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_Command.java" />
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_Waypoint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_messages_UAVModeChangeMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="204" lean-forward="false" selection-start-line="0" selection-start-column="204" selection-end-line="0" selection-end-column="204" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.simplechecker_src_edu_nd_dronology_monitoring_simplechecker_checker_DistanceChecker.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_IDroneCommandHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring.reminds_src_edu_nd_dronology_test_BaseServiceProvider.java">
+    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_IDroneCommandHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.misc_src_edu_nd_dronology_misc_scripts_RRDemoScript.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_uav_IStartstrategy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.gstation.python.connector_src_edu_nd_dronology_gstation_connector_service_connector_IDroneConnectorServiceInstance.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.ui.vaadin_src_main_java_edu_nd_dronology_ui_vaadin_flightroutes_mapoperations_MarkerMouseOverListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1775">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_RemoteValidationMessageHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_info_FlightPlanInfo.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.util_src_main_java_edu_nd_dronology_util_NullUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.validation.safetycase_src_edu_nd_dronology_validation_safetycase_service_internal_IDroneSafetyServiceInstance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_items_IFlightRoute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.services.core_src_edu_nd_dronology_services_core_api_IRemotable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.monitoring_src_edu_nd_dronology_monitoring_MonitoringFrequencyAdaptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_CollisionAvoidanceCheckTask.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_CollisionAvoider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1048,185 +1513,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_StopCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="29" lean-forward="true" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_PhysicalDroneFleetFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_PlanPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-559">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_test_edu_nd_dronology_core_fleet_manager_TestRuntimeDroneTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_ManagedDrone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1539">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_commands_AbstractDroneCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-103">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_messages_UAVStateChangeMessage.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_FlightDirectorFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_DronologyConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-141">
-          <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Concept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.services_src_edu_nd_dronology_services_missionplanning_plan_FullMissionPlan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#2949#2950#0" expanded="false" />
-            <element signature="e#2985#2986#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_DroneFleetManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="62" lean-forward="false" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_DronologyConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-798">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_PlanPoolManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="197">
+          <caret line="108" column="47" lean-forward="true" selection-start-line="108" selection-start-column="47" selection-end-line="108" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_mission_RouteSet.java">
+    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_AbstractPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="73" column="54" lean-forward="false" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_fleet_RuntimeDroneTypes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_monitoring_messages_UAVMonitorableMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-912">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_IFlightSimulator.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_IFlightPlan.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_nvecsimulator_NvecInterpolator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_util_PreciseTimestamp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-741">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/javaCode/_edu.nd.dronology.core_src_edu_nd_dronology_core_status_DroneCollectionStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArtfifactConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StopWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_CoordinateChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_exceptions_DroneException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1234,22 +1552,159 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_internal_SimpleTakeoffFlightPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_LlaCoordinate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="45" column="9" lean-forward="false" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_vehicle_AbstractDrone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_flight_PlanPoolManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StopWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="60" column="55" lean-forward="false" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_NVector.java">
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_simulator_simplesimulator_DistanceCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1482">
+        <state relative-caret-position="437">
+          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_guidancecommands_Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_coordinate_AbstractPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="67" column="6" lean-forward="false" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/cleanJava/_edu.nd.dronology.core_src_edu_nd_dronology_core_collisionavoidance_CollisionAvoidanceCheckTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TraceDynamo/results/10%/CC_to_ID_VSM.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JFileCollect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MatchedNgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TFIDFCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Concept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/AssignConcepts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="54" column="51" lean-forward="true" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+        <state relative-caret-position="308">
+          <caret line="84" column="8" lean-forward="false" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/semantics/database-relation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="48" lean-forward="false" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/semantics/database.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="178">
+          <caret line="1393" column="63" lean-forward="false" selection-start-line="1393" selection-start-column="52" selection-end-line="1393" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Relation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="68" lean-forward="true" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Neo4jVisualize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="99" column="9" lean-forward="true" selection-start-line="99" selection-start-column="9" selection-end-line="99" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

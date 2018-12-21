@@ -58,7 +58,7 @@ public class StopWords {
             "throws", "case", "enum", "instanceof", "return", "transient", "catch", "extends", "short", "try",
             "char", "final", "interface", "static", "void", "class", "finally", "long	", "strictfp", "volatile",
             "const", "float", "native", "super", "while", "arraylist", "hashmap","iterator","hashset","override",
-            "link"
+            "link","defined","logger","list","set","map"
     }));
 
 }

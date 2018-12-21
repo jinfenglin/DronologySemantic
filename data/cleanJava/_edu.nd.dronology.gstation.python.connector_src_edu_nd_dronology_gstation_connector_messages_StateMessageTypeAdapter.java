@@ -1,59 +1,75 @@
-State Message Type Adapter Json Deserializer Map
-Logger LOGGER Logger Provider Logger State Message Type Adapter
-Map deserialize Json Element element Type map Type Json Deserialization Context arg
+State Message Type Adapter
+Json Deserializer
+Provider State Message Type Adapter
+deserialize Json Element element Type Type Json Deserialization Context arg
 Json Parse Exception
-Map Object data Map Hash Map
-Json Object map Object element Json Object
-Lla Coordinate location deserialize LLA Coordinate map Object UAV State Message LOCATION
-data Map put UAV State Message LOCATION location
-Lla Coordinate attitude deserialize LLA Coordinate map Object UAV State Message ATTITUDE
-data Map put UAV State Message ATTITUDE attitude
-Lla Coordinate velocity deserialize LLA Coordinate map Object UAV State Message VELOCITY
-data Map put UAV State Message VELOCITY velocity
-status map Object UAV State Message STATUS
-mode map Object UAV State Message MODE
-data Map put UAV State Message STATUS Drone Status status
-data Map put UAV State Message MODE Drone Mode mode
-armed map Object UAV State Message ARMED
-data Map put UAV State Message ARMED armed
-armable map Object UAV State Message ARMABLE
-data Map put UAV State Message ARMABLE armable
-groundspeed map Object UAV State Message GROUNDSPEED
-data Map put UAV State Message GROUNDSPEED groundspeed
-Battery Status battery Status deserialize Battery Status map Object UAV State Message BATTERYSTATUS
-data Map put UAV State Message BATTERYSTATUS battery Status
+data
+Json Object Object element Json Object
+Lla Coordinate location deserialize LLA Coordinate Object UAV State Message LOCATION
+data put UAV State Message LOCATION location
+Lla Coordinate attitude deserialize LLA Coordinate Object UAV State Message ATTITUDE
+data put UAV State Message ATTITUDE attitude
+Lla Coordinate velocity deserialize LLA Coordinate Object UAV State Message VELOCITY
+data put UAV State Message VELOCITY velocity
+status Object
+UAV State Message STATUS
+mode Object
+UAV State Message MODE
+data put UAV State Message STATUS Drone Status status
+data put UAV State Message MODE Drone Mode mode
+armed Object
+UAV State Message ARMED
+data put UAV State Message ARMED
+armed
+armable Object
+UAV State Message ARMABLE
+data put UAV State Message ARMABLE
+armable
+groundspeed Object
+UAV State Message GROUNDSPEED
+data put UAV State Message GROUNDSPEED
+groundspeed
+Battery Status battery Status deserialize Battery Status Object UAV State Message BATTERYSTATUS
+data put UAV State Message BATTERYSTATUS battery Status
 TODO Auto generated method stub
-data Map
-Battery Status deserialize Battery Status Json Object map Object itemname
-Json Element location Elem map Object itemname
+data
+Battery Status deserialize Battery Status Json Object Object
+itemname
+Json Element location Elem Object
+itemname
 Json Object loc Object location Elem Json Object
 bcurrent
-loc Object current
+loc Object
+current
 Json Primitive level loc Object Json Primitive current
 bcurrent level
 Cast Exception
-LOGGER error Current
+error Current
 Exception
-LOGGER error
+error
 blevel
-loc Object level
+loc Object
+level
 Json Primitive level loc Object Json Primitive level
 blevel level
 Cast Exception
-LOGGER error Level
+error Level
 Exception
-LOGGER error
+error
 bvoltage
-loc Object voltage
+loc Object
+voltage
 Json Primitive volt loc Object Json Primitive voltage
 bvoltage volt
 Cast Exception
-LOGGER error Voltage
+error Voltage
 Exception
-LOGGER error
+error
 Battery Status bcurrent bvoltage blevel
-Lla Coordinate deserialize LLA Coordinate Json Object map Object itemname
-Json Element location Elem map Object itemname
+Lla Coordinate deserialize LLA Coordinate Json Object Object
+itemname
+Json Element location Elem Object
+itemname
 Json Object loc Object location Elem Json Object
 Json Primitive latitude loc Object Json Primitive
 Json Primitive longitude loc Object Json Primitive

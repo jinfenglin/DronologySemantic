@@ -1,20 +1,24 @@
 Eval Function
 function
-List parameter List
+parameter
 weight
-Eval Function weight
+Eval Function
+weight
 Util check
 weight weight
-parameter List Array List
-set Function function
-function function
-add Parameter param
-Util check param
-parameter List param
-parameter List add param
+parameter
 Function
 function
-List Parameters
-Collections unmodifiable List parameter List
+function function
+add Parameter
+param
+Util check param
+parameter
+param
+parameter add param
+Function
+function
+Parameters
+Collections unmodifiable parameter
 Weight
 weight

@@ -1,12 +1,16 @@
-UAV Message Serializable Monitorable Message
+UAV Message
+Serializable Monitorable Message
 serial Version UID
 Precise Timestamp receive Timestamp
 sendtimestamp
 type
-Map data Hash Map
+data
 uavid
 groundstationid
-UAV Message type groundstationid uavid
+UAV Message
+type
+groundstationid
+uavid
 type type
 uavid uavid
 groundstationid groundstationid
@@ -20,15 +24,20 @@ sendtimestamp
 UAV Message Factory GSON Json
 Uavid
 uavid
-set Uavid uavid
+Uavid
+uavid
 uavid uavid
-add Propery key
+add Propery
+key
 data put key
-Property key
-data key
-Set Entry Properties
-data entry Set
-set Type type
+Property
+key
+data
+key
+Properties
+data entry
+Type
+type
 type type
 GCS
 groundstationid

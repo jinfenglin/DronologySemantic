@@ -1,52 +1,68 @@
-Plan Pool manages pending executing completed plans single UAV
+Plan Pool manages pending executing
+completed plans
+single UAV
 Plan Pool
-Logger LOGGER Logger Provider Logger Plan Pool
-Dummy Lock Object lock Object Dummy Lock Object
-List Flight Plan pending Plans Collections List Array List
+Provider Plan Pool
+Dummy Lock Object lock Object
+Dummy Lock Object
+pending Plans Collections
 Flight Plan current Plan
-List Flight Plan completed Plans Collections List Array List
+completed Plans Collections
 Plan Pool
-set Current Flight Completed Drone Exception
+Current Flight Completed
+Drone Exception
 lock Object
 current Plan
-Drone Exception active Plan complete
+Drone Exception
+active Plan
+complete
 completed Plans add current Plan
-current Plan set Status Completed
+current Plan Status Completed
 Flight Zone Exception
-LOGGER error
-LOGGER trace Plan current Plan Flight completed
+error
+trace Plan current Plan Flight completed
 current Plan
-set Plan Current Drone Exception
+Plan Current
+Drone Exception
 lock Object
 current Plan
-Drone Exception Current plan completed
+Drone Exception Current plan
+completed
 pending Plans Empty
-Drone Exception pending flights scheduled
+Drone Exception
+pending flights scheduled
 current Plan pending Plans remove
-LOGGER info Plan current Plan Flight set Active
+info
+Plan current Plan Flight Active
 add Plan Flight Plan plan
-LOGGER info Flight Plan plan Flight scheduled
+info
+Flight Plan plan Flight scheduled
 pending Plans add plan
 Pending Plans
 pending Plans size
 Flight Plan Current Plan
 current Plan
-List Flight Plan Pending Plans
-Collections unmodifiable List Array List pending Plans
-List Flight Plan Completed Plans
-Collections unmodifiable List Array List completed Plans
+Pending Plans
+Collections unmodifiable
+pending Plans
+Completed Plans
+Collections unmodifiable
+completed Plans
 Plan Flight Plan master Plan
 current Plan
-LOGGER info Current flight plan current Plan Flight cancelled
-LOGGER mission Error Current flight plan current Plan Flight cancelled
+info Current flight plan current Plan Flight cancelled
+mission Error Current flight plan current Plan Flight
+cancelled
 current Plan
 pending Plans size
-LOGGER info pending Plans size Pending flight plans cancelled
-LOGGER mission Error pending Plans size Pending flight plans cancelled
+info pending Plans size Pending flight plans cancelled
+mission Error pending Plans size Pending flight plans
+cancelled
 pending Plans clear
 current Plan master Plan
 cancel Pending Plans
 pending Plans size
-LOGGER info pending Plans size Pending flight plans cancelled
-LOGGER mission Error pending Plans size Pending flight plans cancelled
+info pending Plans size Pending flight plans cancelled
+mission Error pending Plans size Pending flight plans
+cancelled
 pending Plans clear

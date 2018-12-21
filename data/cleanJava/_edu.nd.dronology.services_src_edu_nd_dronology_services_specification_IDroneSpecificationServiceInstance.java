@@ -1,2 +1,3 @@
-Drone Specification Service Instance File Transmit Service Instance Drone Specification Info
-Collection Type Specification Info Type Specifications
+Drone Specification Service Instance
+File Transmit Service Instance
+Collection Type Specifications

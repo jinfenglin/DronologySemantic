@@ -1,5 +1,9 @@
-Wrapper object attributes properties Service Instance
-Service Info Remote Transfer Object Comparable Service Info
+Wrapper object
+attributes
+properties
+Service Instance
+Service Info
+Remote Transfer Object Comparable
 ATTRIBUTE SERVICEID Service
 ATTRIBUTE SOCKET Socket
 ATTRIBUTE REMOTE Remote
@@ -12,8 +16,10 @@ ATTRIBUTE TYPE DISTRIBUTOR Distributor
 ATTRIBUTE TYPE SERVICE Service
 ATTRIBUTE TIMESTAMP Timestamp
 serial Version UID
-Map attributes Tree Map
-Map properties Tree Map
+attributes
+Tree
+properties
+Tree
 service
 description
 Service Status service Status Service Status STOPPED
@@ -24,49 +30,68 @@ description
 attributes
 properties
 order
-Service Info service Service Status service Status description Map attributes
-Map properties order
+Service Info
+service Service Status service Status
+description
+attributes
+properties
+order
 Util check attributes properties
-attributes Tree Map attributes
-properties Tree Map properties
+attributes
+Tree attributes
+properties
+Tree properties
 service service
 service Status service Status
 description description
 order order
-Buffer sb Buffer
-Entry attributes entry Set
+Buffer sb
+Buffer
+Entry attributes entry
 sb append Key
 sb append
 sb append
 sb append
 sb
-attributes server process
-Map Details
 attributes
-configuration properties server process
-Map Properties
+server process
+Details
+attributes
+configuration properties
+server process
+Properties
 properties
 service
 Service
 service
-description service
+description
+service
 Description
 description
-map configuration properties
-Map Configuration Properties
+configuration properties
+Configuration Properties
 properties
-current status service
+current status
+service
 Service Status Status
 service Status
-canonical service
+canonical
+service
 Service
-canonical service
-set Service
+canonical
+service
+Service
 compare Service Info
-Integer compare order order
-Adds key attribute pair attribute table
+Integer compare
+order
+order
+Adds
 key
-add Attribute key
+attribute pair
+attribute table
+key
+add Attribute
+key
 attributes put key
-set Status Service Status service Status
+Status Service Status service Status
 service Status service Status

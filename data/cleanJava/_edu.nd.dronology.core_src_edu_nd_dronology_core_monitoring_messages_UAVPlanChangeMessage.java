@@ -1,11 +1,14 @@
-UAV Plan Change Message Monitorable Message
+UAV Plan Change Message
+Monitorable Message
 Concept uavid
 start Time
 Concept type
 Concept flightid
 end Time
 Precise Timestamp timestamp
-UAV Plan Change Message Concept uavid Concept type Concept flightid start Time end Time
+UAV Plan Change Message Concept uavid Concept type Concept flightid
+start Time
+end Time
 timestamp Precise Timestamp create
 uavid uavid
 type type

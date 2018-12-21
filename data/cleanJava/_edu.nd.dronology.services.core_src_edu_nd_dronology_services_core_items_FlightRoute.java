@@ -1,38 +1,49 @@
-Implementation flight route series waypoints additional meta data
-Flight Route Flight Route
+Implementation
+flight route
+series
+waypoints
+additional meta data
+Flight Route
+Flight Route
 category
-Linked List Waypoint waypoints
-takeoffaltitude Dronology Constants ALTITUDE
+Linked waypoints
+takeoffaltitude Dronology Constants
+ALTITUDE
 description
-set Takeoff Altitude
+Takeoff Altitude
 takeoffaltitude
 Flight Route
 UUID random UUID
-waypoints Linked List
-set
+waypoints
+Linked
 Description
 description
-set Description description
+Description
+description
 description description
-set Category category
+Category
+category
 category category
 Category
 category
-List Waypoint Waypoints
-Collections unmodifiable List waypoints
+Waypoints
+Collections unmodifiable waypoints
 add Waypoint Waypoint waypoint
 waypoints add waypoint
-breaks add identical coordinates
+breaks
+add identical coordinates
 remove Waypoint Waypoint coordinate
 index waypoints index coordinate
 index
 waypoints remove coordinate
 index
-add Waypoint Waypoint waypoint index
+add Waypoint Waypoint waypoint
+index
 waypoints add index waypoint
-Waypoint remove Waypoint index
+Waypoint remove Waypoint
+index
 waypoints remove index
-set Takeoff Altitude altitude
+Takeoff Altitude
 altitude
-Illegal Argument Exception Takeoff altitude postive number
+altitude
 takeoffaltitude altitude

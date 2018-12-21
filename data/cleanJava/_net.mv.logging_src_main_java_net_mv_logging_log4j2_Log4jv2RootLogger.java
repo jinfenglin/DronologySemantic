@@ -1,15 +1,18 @@
-Log jv Root Logger Logger
-Log jv Root Logger instance
-Set Logger Appender appenders Hash Set
+Log jv Root
+Log jv Root instance
+appenders
 Marker MARKER Marker Manager Marker Log Factory FACTORY
-Logger root Logger Log Manager Root Logger
-Log jv Root Logger
-root instance loggers log implementation
-Log jv Root Logger Instance
+root Log Manager Root
+Log jv Root
+root instance
+loggers
+log implementation
+Log jv Root Instance
 instance
-instance Log jv Root Logger
 instance
-append Logger Appender appender
+Log jv Root
+instance
+append Appender appender
 appenders add appender
 debug Object message
 TODO Auto generated method stub
@@ -18,21 +21,21 @@ TODO Auto generated method stub
 debug Object message Throwable throwable
 TODO Auto generated method stub
 info Object message
-Logger Appender appender appenders
+Appender appender appenders
 appender info message
 info Throwable throwable
 TODO Auto generated method stub
 info Object message Throwable throwable
 TODO Auto generated method stub
 warn Object message
-Logger Appender appender appenders
+Appender appender appenders
 appender warn message
 warn Throwable throwable
 TODO Auto generated method stub
 warn Object message Throwable throwable
 TODO Auto generated method stub
 error Object message
-Logger Appender appender appenders
+Appender appender appenders
 appender error message
 error Throwable throwable
 TODO Auto generated method stub
@@ -47,9 +50,9 @@ TODO Auto generated method stub
 trace Throwable throwable
 TODO Auto generated method stub
 trace Object message
-Logger Appender appender appenders
+Appender appender appenders
 appender warn message
-remove Appender Logger Appender appender
+remove Appender Appender appender
 appenders remove appender
 hw Info Object message
 TODO Auto generated method stub

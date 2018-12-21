@@ -1,4 +1,5 @@
-UAV State Change Message Monitorable Message
+UAV State Change Message
+Monitorable Message
 Concept uavid
 Concept oldstate
 Concept newstate

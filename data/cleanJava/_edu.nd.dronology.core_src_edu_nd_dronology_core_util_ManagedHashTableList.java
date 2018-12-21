@@ -1,21 +1,27 @@
-Managed Hashtable stores key list query hashtable returns empty list list created initially
+Managed Hashtable stores
+key
+query
+hashtable
+returns
+empty
+created initially
 Key type
 type
-Managed Hash Table List Hashtable List
+Managed Hash Table
+Hashtable
 serial Version UID
 remove key
-List list key
-list list size
-list clear
-List Object key
 key
-Collections empty List
+size
+clear
+Object key
+key
+Collections empty
 key
 add hash Code elem
 hash Code
-List Array List
 add elem
 put hash Code
-List hash Code
+hash Code
 add elem
 put hash Code

@@ -1,6 +1,8 @@
-Persistence Exception Throwable
+Persistence Exception
+Throwable
 Persistence Exception Exception
 Persistence Exception
-Persistence Exception message
+Persistence Exception
+message
 message
 serial Version UID

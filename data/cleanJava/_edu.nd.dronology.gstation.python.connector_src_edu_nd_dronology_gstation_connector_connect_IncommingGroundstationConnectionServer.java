@@ -1,29 +1,38 @@
-Incomming Groundstation Connection Server listens predefined port connections GCS
-Incomming Groundstation Connection Server Runnable
+Incomming Groundstation Connection Server listens
+predefined port
+connections
+GCS
+Incomming Groundstation Connection Server
+Runnable
 port
 Server Socket server Socket
 cont
-Logger LOGGER Logger Provider Logger Incomming Groundstation Connection Server
+Provider Incomming Groundstation Connection Server
 URL
 Incomming Groundstation Connection Server
 run
 server Socket
-server Socket Server Socket port
-server set Reuse Address
-LOGGER info Incomming Groundstation Connection Server listening port port
-server set Timeout
+server Socket
+Server Socket port
+server Reuse Address
+info Incomming Groundstation Connection Server listening
+port port
+server Timeout
 cont
 Socket socket
 socket server Socket accept
-Groundstation Connector handler Groundstation Connector socket
+Groundstation Connector handler
+Groundstation Connector
+socket
 Drone Connector Service Instance handle Connection handler
 Socket Exception
-LOGGER info Socket closed
+info Socket
+closed
 IO Exception
-LOGGER error
+error
 Exception
-LOGGER error
+error
 server Socket
 server Socket close
 IO Exception
-LOGGER error
+error

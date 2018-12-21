@@ -1,4 +1,5 @@
-Logger Appender Adapter Logger Appender
+Appender Adapter
+Appender
 debug Object message
 TODO Auto generated method stub
 debug Throwable throwable

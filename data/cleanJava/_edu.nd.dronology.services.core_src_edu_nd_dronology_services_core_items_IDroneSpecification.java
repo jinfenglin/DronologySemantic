@@ -1,5 +1,8 @@
-Drone Specification Persistable Item
+Drone Specification
+Persistable Item
 Description
-set Type type
-set Description description
+Type
+type
+Description
+description
 Type

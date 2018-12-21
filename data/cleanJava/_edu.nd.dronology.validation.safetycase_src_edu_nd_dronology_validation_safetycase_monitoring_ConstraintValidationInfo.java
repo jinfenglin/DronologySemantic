@@ -1,12 +1,18 @@
-Constraint Validation Info Serializable
-Logger LOGGER Logger Provider Logger Constraint Validation Info
+Constraint Validation Info
+Serializable
+Provider Constraint Validation Info
 serial Version UID
 assumptionid
-Atomic Integer count Total Atomic Integer
-Atomic Integer count Passed Atomic Integer
-Atomic Integer count Failed Atomic Integer
-Atomic Integer count Error Atomic Integer
-Constraint Validation Info assumptionid
+Atomic Integer count Total
+Atomic Integer
+Atomic Integer count Passed
+Atomic Integer
+Atomic Integer count Failed
+Atomic Integer
+Atomic Integer count Error
+Atomic Integer
+Constraint Validation Info
+assumptionid
 assumptionid assumptionid
 Assumptionid
 assumptionid
@@ -27,4 +33,4 @@ MONITORING CHECK FAILED
 count Failed increment
 MONITORING CHECK ERROR
 count Error increment
-LOGGER error Invalid validation result validation Result Result
+error Invalid validation result validation Result Result

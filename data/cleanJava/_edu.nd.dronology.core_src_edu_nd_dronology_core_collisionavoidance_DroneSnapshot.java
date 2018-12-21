@@ -1,10 +1,10 @@
 Drone Snapshot
 Lla Coordinate position
-Array List Command commands
+commands
 Drone Snapshot Lla Coordinate position
 position position
-commands Array List
+commands
 Lla Coordinate Position
 position
-Array List Command Commands
+Commands
 commands

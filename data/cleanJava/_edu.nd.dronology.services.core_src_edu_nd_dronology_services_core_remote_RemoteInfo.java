@@ -1,16 +1,25 @@
-Transmittable object Remote Clients information Subscriber
-Remote Info Registerable Unit
+Transmittable object
+Remote Clients
+information
+Subscriber
+Remote Info
+Registerable Unit
 serial Version UID
-Flag subscribing sources
-Set subscribe Ds Hash Set
-Remote Info hostname
+Flag
+subscribing
+sources
+subscribe Ds
+Remote Info
 hostname
-list subscribed sources
-Set Subscribe Ds
-Collections unmodifiable Set subscribe Ds
-source added
+hostname
+subscribed sources
+Subscribe Ds
+Collections unmodifiable subscribe Ds
+source
+added
 add Source
 subscribe Ds add
-REMOTE CLIENT callback URL callback URL subscribe Ds Registered Ids
+REMOTE CLIENT
+callback URL callback URL subscribe Ds Registered Ids
 Unit Type
 Subscriber

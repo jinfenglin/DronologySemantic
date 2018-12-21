@@ -1,16 +1,17 @@
 Obsolte
-Mission Plan Mission Plan
+Mission Plan
+Mission Plan
 serial Version UID
 Routes
-List Route Set route Sets Array List
+route Sets
 Mission Plan
 UUID random UUID
-set
 Description
 TODO Auto generated method stub
-set Description description
+Description
+description
 TODO Auto generated method stub
-add Route Set Route Set route Set
-route Sets add route Set
-List Route Set Route Sets
-Collections unmodifiable List route Sets
+add Route Route route
+route Sets add route
+Route Sets
+Collections unmodifiable route Sets

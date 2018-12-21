@@ -1,8 +1,9 @@
 Test Runtime Drone Types
-List Object data
-Arrays List Object
+data
+Arrays
+Object
 Solo Director test Instance
-set Exception
+Exception
 testget Instance Threaded
 instance Runtime Drone Types Instance
 instance Runtime Drone Types Instance
@@ -10,14 +11,17 @@ instance
 instance
 Equals instance instance
 testget Instance
-Cyclic Barrier gate Cyclic Barrier
-Thread Thread
+Cyclic Barrier gate
+Cyclic Barrier
+Thread
+Thread
 run
 gate await
 Interrupted Exception Broken Barrier Exception
 print Stack Trace
 instance Runtime Drone Types Instance
-Thread Thread
+Thread
+Thread
 run
 gate await
 Interrupted Exception Broken Barrier Exception

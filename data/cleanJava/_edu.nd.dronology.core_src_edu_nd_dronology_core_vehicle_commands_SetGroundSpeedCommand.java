@@ -1,7 +1,16 @@
-Set Ground Speed Command Drone Command Drone Command
-Command GCS setting groundspeed UAV br
+Ground Speed Command
+Drone Command
+Drone Command
+Command
+GCS
+setting
+groundspeed
+UAV
 Ground speed
 serial Version UID
-Set Ground Speed Command uavid speed
-uavid Command Ids SET GROUND SPEED COMMAND
+Ground Speed Command
+uavid
+speed
+uavid Command Ids
+GROUND SPEED COMMAND
 data put ATTRIBUTE SPEED speed

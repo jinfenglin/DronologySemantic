@@ -1,19 +1,33 @@
-Factory creating UAV Message JSON strings
+Factory
+creating UAV Message
+JSON strings
 UAV Message Factory
 MESSAGE TYPE type
-Gson GSON Gson Builder enable Complex Map Key Serialization serialize Nulls
-set Date Format Date Format set Field Naming Policy Field Naming Policy LOWER DASHES set Version
+Gson GSON
+Gson Builder enable Complex Key Serialization serialize Nulls
+Date Format Date Format
+Field Naming Policy Field Naming Policy LOWER
+DASHES Version
 serialize Special Floating Point Values serialize Special Floating Point Values
-register Type Adapter UAV Mode Change Message Mode Change Message Type Adapter create
-Gson TYPE GSON Gson Builder serialize Nulls set Date Format Date Format
-set Field Naming Policy Field Naming Policy LOWER DASHES set Version
-serialize Special Floating Point Values register Type Adapter Map State Message Type Adapter
+register Type Adapter UAV Mode Change Message
+Mode Change Message Type Adapter create
+Gson TYPE GSON
+Gson Builder serialize Nulls Date Format Date Format
+Field Naming Policy Field Naming Policy LOWER
+DASHES Version
+serialize Special Floating Point Values register Type Adapter
+State Message Type Adapter
 create
-UAV Message create messagestring Exception
-JSON Object message Object JSON Object messagestring
+UAV Message create
+messagestring
+Exception
+JSON Object message Object
+JSON Object messagestring
 messagetype message Object opt MESSAGE TYPE
-messagetype Utils Empty messagetype
-Ground Station Exception Message Type received message
+messagetype
+Utils Empty messagetype
+Ground Station Exception Message Type
+received message
 UAV Message message
 messagetype
 UAV State Message MESSAGE TYPE

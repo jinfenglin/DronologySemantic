@@ -1,7 +1,8 @@
-External Safety Safety
+External Safety
+Safety
 add Assumption Assumption ass
-List ISAC Assumption Evaluateable Assumptions
-List ISAC Assumption Pluggable Assumptions
+Evaluateable Assumptions
+Pluggable Assumptions
 UAV
-List Parameters
-List Monitorable Parameters
+Parameters
+Monitorable Parameters

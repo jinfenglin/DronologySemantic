@@ -1,7 +1,8 @@
-Flight Route Info Remote Info Object
+Flight Route Info
+Remote Info Object
 serial Version UID
 category
-List Waypoint waypoints Array List
+waypoints
 date Created
 date Modified
 length
@@ -9,13 +10,16 @@ description
 Flight Route Info
 Category
 category
-set Category category
+Category
+category
 category category
-List Waypoint Waypoints
-Collections unmodifiable List waypoints
-set Date Modified date Modified
+Waypoints
+Collections unmodifiable waypoints
+Date Modified
+date Modified
 date Modified date Modified
-set Date Created date Created
+Date Created
+date Created
 date Created date Created
 add Waypoint Waypoint waypoint
 waypoints add waypoint
@@ -27,9 +31,11 @@ Date Created
 date Created
 Date Modified
 date Modified
-set Route Length length
+Route Length
+length
 length length
 Description
 description
-set Description description
+Description
+description
 description description

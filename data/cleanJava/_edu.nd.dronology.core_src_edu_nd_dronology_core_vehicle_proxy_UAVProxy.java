@@ -1,45 +1,64 @@
-Proxy Manged Drones br
-datastructure intended passed external clients
-information actual UAV managed Dronology
-UAV Proxy Serializable IUAV Proxy
+Proxy
+Manged Drones
+datastructure
+intended
+passed
+external clients
+information
+actual UAV managed
+Dronology
+UAV Proxy
+Serializable IUAV Proxy
 serial Version UID
 latitude
 longitude
 altitude
 battery Level
 velocity
-Map info
+info
 status
 groundstation
 Lla Coordinate home
-UAV Proxy latitude longitude altitude battery Level velocity
+UAV Proxy
+latitude
+longitude
+altitude
+battery Level
+velocity
 latitude latitude
 longitude longitude
 altitude altitude
 battery Level battery Level
 velocity velocity
-info Hash Map
+info
 status UNKNOWN
 Javadoc
 dronology core vehicle proxy IUAV Proxy
 Groundstation
 groundstation
-set Status status
+Status
+status
 status status
 Javadoc
 dronology core vehicle proxy IUAV Proxy Status
 Status
 status
-update Coordinates latitude longitude altitude
+update Coordinates
+latitude
+longitude
+altitude
 latitude latitude
 longitude longitude
 altitude altitude
-update Battery Level battery Level
+update Battery Level
+battery Level
 battery Level battery Level
-update Velocity velocity
+update Velocity
+velocity
 velocity velocity
 Pos latitude longitude altitude Vel velocity
-Bat battery Level status
+Bat battery Level
+status
 hash Code
 hash Code
 Javadoc
@@ -64,17 +83,19 @@ Velocity
 velocity
 Javadoc
 dronology core vehicle proxy IUAV Proxy Info
-Map Info
+Info
 info
 Javadoc
 dronology core vehicle proxy IUAV Proxy Coordinates
 Lla Coordinate Coordinates
 Lla Coordinate latitude longitude altitude
-set Velocity velocity
+Velocity
+velocity
 velocity velocity
-set Groundstation groundstation
+Groundstation
+groundstation
 groundstation groundstation
 Lla Coordinate Home Location
 home
-set Home Location Lla Coordinate home
+Home Location Lla Coordinate home
 home home
